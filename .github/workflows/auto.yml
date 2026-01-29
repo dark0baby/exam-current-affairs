@@ -28,7 +28,7 @@ jobs:
       - name: Generate SSC Current Affairs
         run: python generate.py
 
-     - name: Commit & Push
+    - name: Commit & Push
   env:
     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   run: |
@@ -37,5 +37,6 @@ jobs:
     git add .
     git diff-index --quiet HEAD || git commit -m "Daily SSC Current Affairs Update"
     git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+
 
 
