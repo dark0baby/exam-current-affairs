@@ -27,10 +27,9 @@ jobs:
 
       # Step 5: Commit and push changes
       - name: Commit and Push changes
-  run: |
-    git config user.name "ca-bot"
-    git config user.email "bot@github.com"
-    git add .
-    git commit -m "Daily CA update" || echo "No changes"
-    git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
-
+        run: |
+          git config user.name "ca-bot"
+          git config user.email "bot@github.com"
+          git add .
+          git commit -m "Daily CA update" || echo "No changes"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
