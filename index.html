@@ -1,11 +1,41 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Exam Current Affairs</title>
+<meta charset="UTF-8">
+<title>Exam Current Affairs Dashboard</title>
+<link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-  <h1>📘 Exam Current Affairs</h1>
-  <p>Auto-updated daily for UPSC, SSC, Railways</p>
-  <p>All content is saved date-wise.</p>
+<div class="container">
+  <h1>📘 Exam Current Affairs Dashboard</h1>
+  <div id="sections">
+    <div class="section" id="daily">
+      <h2>Daily Updates</h2>
+      <ul id="daily-list"></ul>
+    </div>
+    <div class="section" id="weekly">
+      <h2>Weekly Updates</h2>
+      <ul id="weekly-list"></ul>
+    </div>
+    <div class="section" id="monthly">
+      <h2>Monthly Updates</h2>
+      <ul id="monthly-list"></ul>
+    </div>
+    <div class="section" id="yearly">
+      <h2>Yearly Updates</h2>
+      <ul id="yearly-list"></ul>
+    </div>
+  </div>
+
+  <div id="content-view">
+    <h2>Content</h2>
+    <div id="content"></div>
+    <button id="downloadPDF">Download PDF</button>
+    <button id="downloadWord">Download Word</button>
+  </div>
+</div>
+<script src="assets/dashboard.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/docx/7.2.0/docx.js"></script>
 </body>
 </html>
