@@ -115,11 +115,12 @@ else:
 if today not in index["daily"]:
     index["daily"].append(today)
 
-import isoweek, datetime
+import datetime
 
 dt = datetime.datetime.today()
-year, week_num, _ = dt.isocalendar()
-month = dt.strftime("%Y-%m")
+year, week_num, _ = dt.isocalendar()  # ISO week
+week_id = f"{year}-W{week_num:02d}"
+
 
 # Weekly
 week_id = f"{year}-W{week_num:02d}"
