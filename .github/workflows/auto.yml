@@ -26,14 +26,20 @@ jobs:
       - name: Install dependencies
         run: pip install requests feedparser markdown
 
-      - name: Generate Current Affairs
-        run: python generate.py
-
-      - name: Commit & Push
+      # ✅ PULL FIRST (SAFE)
+      - name: Sync with main
         run: |
           git config user.name "ca-bot"
           git config user.email "ca-bot@users.noreply.github.com"
-          git pull --rebase
+          git pull origin main
+
+      # ✅ THEN GENERATE
+      - name: Generate Current Affairs
+        run: python generate.py
+
+      # ✅ THEN COMMIT & PUSH
+      - name: Commit & Push
+        run: |
           git add .
           git commit -m "Daily SSC Current Affairs Update" || exit 0
-          git push
+          git push origin main
