@@ -2,23 +2,23 @@
 
 _UPSC | SSC | Railways | Other Govt Exams_
 
-- **Kerala Finance Minister to present State Budget today; key announcements anticipated ahead of Assembly polls**
-- **Unaccounted money worth ₹72 lakh seized**
-- **Ajit Pawar plane crash LIVE: Maharashtra Dy CM's mortal remains brought to his residence in Katewadi**
-- **Accused in murder case of gangster Goldy Brar’s cousin shot dead in Punjab’s Mohali; Brar booked**
-- **Goyal hits out at Congress for raising concerns over India-EU FTA**
-- **Gurugram schools receive bomb threats, declared hoax after search**
-- **Ajit Pawar's death in plane crash an accident, don't bring politics: Sharad Pawar**
-- **High quality and affordable education built on viable public funding, a challenge in India, says N. Ram**
-- **Karnataka’s draft wage rules mirror Centre’s rules, raise concerns on worker coverage**
-- **NDA will ruin developed State of T.N., if voted to power: Stalin**
-- **Stalin to lay foundation for Knowledge City project today**
-- **Police conduct special counselling session for rowdy-sheeters in Secunderabad zone**
-- **Centre can’t cheat people by boasting about itself: Vaiko**
-- **Rajeeve and Kunhalikutty spar over State’s investment climate**
-- **Quenching Chennai’s growing thirst**
-- **Gauhati High Court lists PIL amid Assam vote row**
-- **Put up a united front to score big in municipal polls: KTR**
-- **CM calls for steps to expand Sanjeevani Project across A.P.**
-- **AYUSHEXCIL, Zepto sign MoU to improve access and quality assurance for Ayush products**
-- **Abdullahs mourn Ajit Pawar’s death, say ‘he was a great son of Maharashtra’**
+- **Fetching better prices for oil palm farmers a key priority, says A.P. Agriculture Minister**
+- **Kannur gets major push in State Budget: sports hub, port, cultural and industrial projects announced**
+- **DVAC conducts searches at panchayat office near Arakkonam over irregularities in laying borewells**
+- **Hariprasad’s remarks triggers uproar in Council; proceedings marred**
+- **Eluru Collector asks officials to reactivate bank accounts of government departments**
+- **Job fair helps PwDs secure employment**
+- **Children with Type-1 diabetes to get free treatment kits at Tirupattur GH**
+- **Skill shortages threaten India’s aviation growth, industry calls for overhaul of training model**
+- **TGSRTC launches staff initiative to address financial challenges**
+- **Guarantee Utsav in Koppal next month to highlight benefits of schemes**
+- **Farmers protest proposed Navy weapons depot at Koyyalagudem**
+- **Hyderabad Task Force arrests gym trainer for illegal sale of steroid injections**
+- **Kerala Budget 2026-27: Plans to provide cashless treatment for accident victims**
+- **India eyes bigger share of global aircraft component manufacturing**
+- **Kerala Budget 2026-27: Budget reaffirms LDF’s vision of inclusive growth: CM**
+- **Kerala Budget 2026-27: Cashew sector gets a total outlay of ₹142 crore**
+- **Smart City Projects in Karnataka have failed to mobilise funds: CAG**
+- **Kerala Budget 2026-27: State bets big on sports**
+- **Kerala Budget 2026-27: AI city, Cochin Cancer Centre among projects to receive allocations**
+- **Police conduct special drive against Chinese manja in Cyberabad**
