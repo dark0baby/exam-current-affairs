@@ -2,7 +2,7 @@ name: Auto Current Affairs
 
 on:
   schedule:
-    - cron: "0 19 * * *"   # 12:30 AM IST
+    - cron: "0 19 * * *"  # 12:30 AM IST
   workflow_dispatch:
 
 permissions:
@@ -22,21 +22,17 @@ jobs:
           python-version: "3.10"
 
       - name: Install dependencies
-        run: |
-          pip install feedparser requests markdown
+        run: pip install feedparser requests markdown
 
       - name: Generate SSC Current Affairs
         run: python generate.py
 
-    - name: Commit & Push
-  env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  run: |
-    git config user.name "ca-bot"
-    git config user.email "ca-bot@users.noreply.github.com"
-    git add .
-    git diff-index --quiet HEAD || git commit -m "Daily SSC Current Affairs Update"
-    git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
-
-
-
+      - name: Commit & Push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "ca-bot"
+          git config user.email "ca-bot@users.noreply.github.com"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Daily SSC Current Affairs Update"
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
