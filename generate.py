@@ -121,15 +121,14 @@ dt = datetime.datetime.today()
 year, week_num, _ = dt.isocalendar()  # ISO week
 week_id = f"{year}-W{week_num:02d}"
 
-
 # Weekly
-week_id = f"{year}-W{week_num:02d}"
 if week_id not in index["weekly"]:
     index["weekly"][week_id] = []
 if today not in index["weekly"][week_id]:
     index["weekly"][week_id].append(today)
 
 # Monthly
+month = dt.strftime("%Y-%m")  # <--- THIS WAS MISSING
 if month not in index["monthly"]:
     index["monthly"][month] = []
 if week_id not in index["monthly"][month]:
