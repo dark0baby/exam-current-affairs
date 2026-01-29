@@ -101,3 +101,47 @@ for src in SOURCES:
 # ===============================
 with open(daily_file, "w", encoding="utf-8") as f:
     f.write(content)
+
+import json
+
+index_file = "index.json"
+if os.path.exists(index_file):
+    with open(index_file, "r") as f:
+        index = json.load(f)
+else:
+    index = {"daily": [], "weekly": {}, "monthly": {}, "yearly": {}}
+
+# Add today
+if today not in index["daily"]:
+    index["daily"].append(today)
+
+import isoweek, datetime
+
+dt = datetime.datetime.today()
+year, week_num, _ = dt.isocalendar()
+month = dt.strftime("%Y-%m")
+
+# Weekly
+week_id = f"{year}-W{week_num:02d}"
+if week_id not in index["weekly"]:
+    index["weekly"][week_id] = []
+if today not in index["weekly"][week_id]:
+    index["weekly"][week_id].append(today)
+
+# Monthly
+if month not in index["monthly"]:
+    index["monthly"][month] = []
+if week_id not in index["monthly"][month]:
+    index["monthly"][month].append(week_id)
+
+# Yearly
+year_str = str(year)
+if year_str not in index["yearly"]:
+    index["yearly"][year_str] = []
+if month not in index["yearly"][year_str]:
+    index["yearly"][year_str].append(month)
+
+# Save JSON
+with open(index_file, "w") as f:
+    json.dump(index, f, indent=4)
+
