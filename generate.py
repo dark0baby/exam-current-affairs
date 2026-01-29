@@ -1,147 +1,101 @@
-import feedparser, os
-from datetime import date
+import feedparser, os, json
+from datetime import date, datetime
 
 # ===============================
-# TRUSTED EXAM-FOCUSED RSS FEEDS
+# EXAM-FOCUSED SOURCES
 # ===============================
-SOURCES = [
-    # INDIA – GOVERNMENT
+PIB_FEEDS = [
     "https://pib.gov.in/rss.xml",
     "https://prsindia.org/rss.xml",
-    "https://rbi.org.in/Scripts/Rss.aspx",
-
-    # INDIA – NEWS
-    "https://www.thehindu.com/news/national/feeder/default.rss",
-    "https://www.thehindu.com/business/feeder/default.rss",
-    "https://indianexpress.com/section/india/feed/",
-    "https://indianexpress.com/section/explained/feed/",
-
-    # WORLD – OFFICIAL
-    "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-    "https://www.who.int/rss-feeds/news-english.xml",
-    "https://www.worldbank.org/en/news/all.rss",
-    "https://www.imf.org/en/News/RSS",
-
-    # ENVIRONMENT / SCIENCE
-    "https://www.unep.org/rss.xml",
-    "https://www.isro.gov.in/rss.xml"
+    "https://www.rbi.org.in/Scripts/Rss.aspx"
 ]
 
-# =====================================
-# ~100 HIGH-VALUE UPSC + SSC KEYWORDS
-# =====================================
-KEYWORDS = [
-    # POLITY
-    "constitution","preamble","fundamental rights","fundamental duties",
-    "parliament","lok sabha","rajya sabha","supreme court","high court",
-    "judiciary","ordinance","amendment","election commission","federalism",
-
-    # GOVERNMENT & SCHEMES
-    "scheme","yojana","mission","initiative","ministry","department",
-    "cabinet","policy","act","bill","notification","gazette",
-
-    # ECONOMY
-    "budget","gdp","inflation","deflation","repo rate","reverse repo",
-    "rbi","monetary policy","fiscal deficit","current account",
-    "forex","export","import","msme","startup","disinvestment",
-
-    # INTERNATIONAL
-    "un","unodc","unesco","who","imf","world bank","wto",
-    "g20","brics","quad","asean","summit","bilateral","multilateral",
-
-    # ENVIRONMENT
-    "climate change","global warming","carbon","net zero",
-    "biodiversity","wildlife","environment","pollution",
-    "cop","paris agreement","renewable","solar","wind",
-
-    # SCIENCE & TECH
-    "isro","satellite","missile","space","ai","artificial intelligence",
-    "quantum","semiconductor","biotechnology","vaccine","genome",
-
-    # DEFENCE & SECURITY
-    "defence","exercise","army","navy","air force","missile",
-    "indigenous","drdo","border","cyber security",
-
-    # REPORTS & INDICES
-    "report","index","ranking","survey","assessment","outlook"
+NEWS_FEEDS = [
+    "https://www.thehindu.com/news/national/feeder/default.rss",
+    "https://indianexpress.com/section/explained/feed/"
 ]
 
 # ===============================
-# FILE SYSTEM
+# STRICT EXAM TRIGGERS
+# ===============================
+EXAM_TRIGGERS = [
+    "approved", "launched", "scheme", "policy", "bill", "act",
+    "index", "ranking", "report", "survey",
+    "appointed", "chairman", "governor",
+    "summit", "exercise", "mou", "agreement"
+]
+
+# ===============================
+# DATE & PATHS
 # ===============================
 today = date.today().isoformat()
+dt = datetime.today()
+year = dt.year
+month = dt.strftime("%Y-%m")
+
 path = f"data/{today}"
 os.makedirs(path, exist_ok=True)
-
 daily_file = f"{path}/daily_brief.md"
 
-content = f"# Daily Current Affairs – {today}\n\n"
-content += "_UPSC | SSC | Railways | Other Govt Exams_\n\n"
-
-count = 0
-MAX_ITEMS = 20   # keeps it within ~1 A4 page (font 8–10)
+content = f"# Daily Current Affairs – {today}\n"
+content += "_UPSC | SSC | Banking | Railways_\n\n"
 
 # ===============================
-# PARSE & FILTER NEWS
+# FUNCTION: PROCESS FEEDS
 # ===============================
-for src in SOURCES:
-    feed = feedparser.parse(src)
+def process_feed(feed_url, strict=False):
+    items = []
+    feed = feedparser.parse(feed_url)
     for e in feed.entries:
-        text = (e.title + " " + e.get("summary","")).lower()
-        if any(k in text for k in KEYWORDS):
-            content += f"- **{e.title}**\n"
-            count += 1
-        if count >= MAX_ITEMS:
+        text = (e.title + " " + e.get("summary", "")).lower()
+        if strict:
+            if not any(k in text for k in EXAM_TRIGGERS):
+                continue
+        items.append(e.title)
+        if len(items) >= 10:
             break
-    if count >= MAX_ITEMS:
-        break
+    return items
 
 # ===============================
-# SAVE FILE
+# PIB SECTION (PRIMARY)
+# ===============================
+content += "## Government & Polity (PIB / RBI / PRS)\n"
+for src in PIB_FEEDS:
+    for title in process_feed(src):
+        content += f"• {title}\n"
+
+# ===============================
+# FILTERED NEWS SECTION
+# ===============================
+content += "\n## Important Exam-Relevant Developments\n"
+for src in NEWS_FEEDS:
+    for title in process_feed(src, strict=True):
+        content += f"• {title}\n"
+
+# ===============================
+# SAVE DAILY FILE
 # ===============================
 with open(daily_file, "w", encoding="utf-8") as f:
     f.write(content)
 
-import json
-
+# ===============================
+# INDEXING (FIXED)
+# ===============================
 index_file = "index.json"
 if os.path.exists(index_file):
-    with open(index_file, "r") as f:
+    with open(index_file) as f:
         index = json.load(f)
 else:
     index = {"daily": [], "weekly": {}, "monthly": {}, "yearly": {}}
 
-# Add today
 if today not in index["daily"]:
     index["daily"].append(today)
 
-import datetime
+week_id = f"{year}-W{dt.isocalendar()[1]:02d}"
 
-dt = datetime.datetime.today()
-year, week_num, _ = dt.isocalendar()  # ISO week
-week_id = f"{year}-W{week_num:02d}"
+index["weekly"].setdefault(week_id, []).append(today)
+index["monthly"].setdefault(month, []).append(week_id)
+index["yearly"].setdefault(str(year), []).append(month)
 
-# Weekly
-if week_id not in index["weekly"]:
-    index["weekly"][week_id] = []
-if today not in index["weekly"][week_id]:
-    index["weekly"][week_id].append(today)
-
-# Monthly
-month = dt.strftime("%Y-%m")  # <--- THIS WAS MISSING
-if month not in index["monthly"]:
-    index["monthly"][month] = []
-if week_id not in index["monthly"][month]:
-    index["monthly"][month].append(week_id)
-
-# Yearly
-year_str = str(year)
-if year_str not in index["yearly"]:
-    index["yearly"][year_str] = []
-if month not in index["yearly"][year_str]:
-    index["yearly"][year_str].append(month)
-
-# Save JSON
 with open(index_file, "w") as f:
-    json.dump(index, f, indent=4)
-
+    json.dump(index, f, indent=2)
