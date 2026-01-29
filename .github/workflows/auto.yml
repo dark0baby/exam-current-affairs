@@ -10,16 +10,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout repo with push permissions
       - uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # IMPORTANT for pushing
 
+      # Step 2: Setup Python
       - uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
+      # Step 3: Install required library
       - run: pip install feedparser
 
+      # Step 4: Run your bot
       - run: python generate.py
 
+      # Step 5: Commit and push changes
       - name: Commit and Push changes
         run: |
           git config user.name "ca-bot"
