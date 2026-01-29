@@ -2,6 +2,12 @@
 
 _UPSC | SSC | Railways | Other Govt Exams_
 
+- **Students urged to take active part in college initiatives**
+- **Cloth merchant, associate held for bomb hoax at Bengaluru airport**
+- **Budget allocations for Kochi draw reactions along political lines**
+- **Congress flags ‘mass, targeted voter deletions’ in Form‑7 misuse, seeks ECI intervention**
+- **KERALA BUDGET 2026-27: ₹623.85 crore to be spent on irrigation, flood control and coastal zone management**
+- **Kerala Budget 2026-27: ₹2,071.95 crore earmarked for agri-allied sectors**
 - **Fetching better prices for oil palm farmers a key priority, says A.P. Agriculture Minister**
 - **Kannur gets major push in State Budget: sports hub, port, cultural and industrial projects announced**
 - **DVAC conducts searches at panchayat office near Arakkonam over irregularities in laying borewells**
@@ -16,9 +22,3 @@ _UPSC | SSC | Railways | Other Govt Exams_
 - **Hyderabad Task Force arrests gym trainer for illegal sale of steroid injections**
 - **Kerala Budget 2026-27: Plans to provide cashless treatment for accident victims**
 - **India eyes bigger share of global aircraft component manufacturing**
-- **Kerala Budget 2026-27: Budget reaffirms LDF’s vision of inclusive growth: CM**
-- **Kerala Budget 2026-27: Cashew sector gets a total outlay of ₹142 crore**
-- **Smart City Projects in Karnataka have failed to mobilise funds: CAG**
-- **Kerala Budget 2026-27: State bets big on sports**
-- **Kerala Budget 2026-27: AI city, Cochin Cancer Centre among projects to receive allocations**
-- **Police conduct special drive against Chinese manja in Cyberabad**
