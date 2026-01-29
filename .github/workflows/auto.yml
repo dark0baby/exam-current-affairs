@@ -13,33 +13,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: "3.10"
 
       - name: Install dependencies
-        run: pip install requests feedparser markdown
+        run: |
+          pip install feedparser requests markdown
 
-      # ✅ PULL FIRST (SAFE)
-      - name: Sync with main
+      - name: Generate SSC Current Affairs
+        run: python generate.py
+
+      - name: Commit and Push
         run: |
           git config user.name "ca-bot"
           git config user.email "ca-bot@users.noreply.github.com"
-          git pull origin main
-
-      # ✅ THEN GENERATE
-      - name: Generate Current Affairs
-        run: python generate.py
-
-      # ✅ THEN COMMIT & PUSH
-      - name: Commit & Push
-        run: |
           git add .
           git commit -m "Daily SSC Current Affairs Update" || exit 0
           git push origin main
