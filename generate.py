@@ -1,5 +1,6 @@
-import requests
+import os
 import json
+import feedparser
 from datetime import date
 
 TODAY = date.today().isoformat()
@@ -7,60 +8,66 @@ DATA_DIR = f"data/{TODAY}"
 MD_FILE = f"{DATA_DIR}/daily_brief.md"
 JSON_FILE = "index.json"
 
-# -------- SOURCES (SAFE & EXAM-RELEVANT) --------
+# ---------- FEEDS ----------
 SOURCES = {
     "PIB": "https://pib.gov.in/PressReleaseRSS.aspx",
     "RBI": "https://www.rbi.org.in/Scripts/Rss.aspx",
+    "The Hindu": "https://www.thehindu.com/news/national/feeder/default.rss",
+    "Indian Express": "https://indianexpress.com/section/india/feed/"
 }
 
-def fetch_pib():
-    import feedparser
-    feed = feedparser.parse(SOURCES["PIB"])
-    items = []
-    for e in feed.entries[:5]:
-        items.append({
-            "topic": e.title,
-            "why": "Official PIB release",
-            "source": "PIB",
-        })
-    return items
+# ---------- KEYWORDS ----------
+KEYWORDS = [
+    "scheme","yojana","policy","budget","gdp","inflation","rbi",
+    "supreme court","high court","parliament","cabinet","bill",
+    "act","notification","amendment","exercise","defence","launch",
+    "appointment","award","report","index","survey","ranking",
+    "climate","environment","isro","missile","space","startup",
+    "disinvestment","export","import","un","imf","world bank",
+    "wto","who","cop","paris agreement"
+]
 
-def filter_exam_relevant(items):
-    KEYWORDS = [
-        "Scheme", "Index", "Report", "Exercise",
-        "Launch", "Act", "Bill", "Award", "Appointment"
-    ]
-    filtered = []
-    for i in items:
-        if any(k.lower() in i["topic"].lower() for k in KEYWORDS):
-            filtered.append(i)
-    return filtered
-
+# ---------- MCQ ADAPTIVE ----------
 def generate_mcq(topic):
-    return {
-        "question": f"{topic} is related to which of the following?",
-        "options": ["Economy", "Polity", "Science", "Defence"],
-        "answer": "Economy"
-    }
+    topic_lower = topic.lower()
+    if any(x in topic_lower for x in ["rbi","gdp","budget","inflation","economy"]):
+        subject = "Economy"
+    elif any(x in topic_lower for x in ["supreme court","high court","parliament","act","bill","amendment"]):
+        subject = "Polity"
+    elif any(x in topic_lower for x in ["isro","space","missile","science","technology"]):
+        subject = "Science & Tech"
+    elif any(x in topic_lower for x in ["defence","exercise","army","navy","air force","indigenous"]):
+        subject = "Defence"
+    else:
+        subject = "General Current Affairs"
 
+    question = f"{topic} is related to which of the following?"
+    options = ["Economy","Polity","Science & Tech","Defence"]
+    answer = subject
+    return {"question": question, "options": options, "answer": answer, "subject": subject}
+
+# ---------- MAIN ----------
 def main():
-    import os
     os.makedirs(DATA_DIR, exist_ok=True)
-
-    raw = fetch_pib()
-    filtered = filter_exam_relevant(raw)
-
-    md = f"# Daily Current Affairs – {TODAY}\n\n"
+    md_content = f"# Daily Current Affairs – {TODAY}\n\n"
     json_out = []
 
-    for item in filtered:
-        mcq = generate_mcq(item["topic"])
+    total_count = 0
+    MAX_ITEMS = 20  # ~1 A4 page
 
-        md += f"""## {item['topic']}
-**Subject:** Current Affairs  
-**Why in News:** {item['why']}  
-**Source:** {item['source']}  
-**SSC Probability:** HIGH  
+    for source_name, url in SOURCES.items():
+        feed = feedparser.parse(url)
+        for entry in feed.entries:
+            title = entry.get("title","")
+            summary = entry.get("summary","")
+            text = (title + " " + summary).lower()
+
+            if any(k.lower() in text for k in KEYWORDS):
+                mcq = generate_mcq(title)
+                md_content += f"""## {title}
+**Subject:** {mcq['subject']}
+**Why in News:** Key update from {source_name}  
+**Source:** {source_name}
 
 **MCQ:**  
 Q. {mcq['question']}  
@@ -69,14 +76,18 @@ Ans: {mcq['answer']}
 
 ---
 """
-        json_out.append({
-            "date": TODAY,
-            "topic": item["topic"],
-            "mcq": mcq
-        })
+                json_out.append({"date": TODAY, "topic": title, "source": source_name, "mcq": mcq})
+                total_count += 1
+                if total_count >= MAX_ITEMS:
+                    break
+        if total_count >= MAX_ITEMS:
+            break
+
+    if total_count == 0:
+        md_content += "- No exam-relevant current affairs found for today.\n"
 
     with open(MD_FILE, "w", encoding="utf-8") as f:
-        f.write(md)
+        f.write(md_content)
 
     with open(JSON_FILE, "w", encoding="utf-8") as f:
         json.dump(json_out, f, indent=2)
