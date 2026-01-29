@@ -58,7 +58,7 @@ fetch("index.json")
 
 // Load single day content
 function loadContent(date) {
-  fetch(`data/${date}/daily_brief.md`)
+  fetch(`https://raw.githubusercontent.com/dark0baby/exam-current-affairs/main/data/${date}/daily_brief.md`)
     .then(res => res.text())
     .then(md => {
       currentContent = md;
