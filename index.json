@@ -1,26 +1,10 @@
 [
   {
-    "date": "2026-02-04",
-    "topic": "12 accused of disrobing Vantamuri woman sentenced to five years rigorous imprisonment",
+    "date": "2026-02-05",
+    "topic": "Samsung Innovation Campus certifies 2,000 youth in Karnataka",
     "source": "The Hindu",
     "mcq": {
-      "question": "12 accused of disrobing Vantamuri woman sentenced to five years rigorous imprisonment is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "Science & Tech",
-      "subject": "Science & Tech"
-    }
-  },
-  {
-    "date": "2026-02-04",
-    "topic": "Centre gives a pittance to T.N. despite State ranking 2nd\u00a0on economic front: CM",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Centre gives a pittance to T.N. despite State ranking 2nd\u00a0on economic front: CM is related to which of the following?",
+      "question": "Samsung Innovation Campus certifies 2,000 youth in Karnataka is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -32,11 +16,11 @@
     }
   },
   {
-    "date": "2026-02-04",
-    "topic": "Fake currency racket busted, four arrested in Andhra",
+    "date": "2026-02-05",
+    "topic": "Habitual offenders in North-East Bengaluru to be placed under surveillance: DCP",
     "source": "The Hindu",
     "mcq": {
-      "question": "Fake currency racket busted, four arrested in Andhra is related to which of the following?",
+      "question": "Habitual offenders in North-East Bengaluru to be placed under surveillance: DCP is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -48,11 +32,11 @@
     }
   },
   {
-    "date": "2026-02-04",
-    "topic": "Selvaperunthagai to raise MGNREGA issue during padayatra",
+    "date": "2026-02-05",
+    "topic": "AIADMK announces stir against DMK government\u2019s move on new rural job guarantee scheme",
     "source": "The Hindu",
     "mcq": {
-      "question": "Selvaperunthagai to raise MGNREGA issue during padayatra is related to which of the following?",
+      "question": "AIADMK announces stir against DMK government\u2019s move on new rural job guarantee scheme is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -64,27 +48,11 @@
     }
   },
   {
-    "date": "2026-02-04",
-    "topic": "Andhra DGP launches \u2018AI4AP Police\u2019 project",
+    "date": "2026-02-05",
+    "topic": "Supreme Court relief to T.N. in case of Vice-Chancellors\u2019 appointments historically significant: Higher Education Minister",
     "source": "The Hindu",
     "mcq": {
-      "question": "Andhra DGP launches \u2018AI4AP Police\u2019 project is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-02-04",
-    "topic": "Intermediate Board Secretary inspects practical examination centre",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Intermediate Board Secretary inspects practical examination centre is related to which of the following?",
+      "question": "Supreme Court relief to T.N. in case of Vice-Chancellors\u2019 appointments historically significant: Higher Education Minister is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -96,11 +64,107 @@
     }
   },
   {
-    "date": "2026-02-04",
-    "topic": "Theft case against Ajith Kumar closed: CBI to Madurai Bench of the Madras High Court",
+    "date": "2026-02-05",
+    "topic": "Woman rowdy sheeter arrested under KCOCA in kidnapping case",
     "source": "The Hindu",
     "mcq": {
-      "question": "Theft case against Ajith Kumar closed: CBI to Madurai Bench of the Madras High Court is related to which of the following?",
+      "question": "Woman rowdy sheeter arrested under KCOCA in kidnapping case is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-02-05",
+    "topic": "TMC\u00a0govt. hikes monthly aid for women, unveils scheme for unemployed",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "TMC\u00a0govt. hikes monthly aid for women, unveils scheme for unemployed is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-02-05",
+    "topic": "Maoist killed, C-60 commando injured in encounter in Gadchiroli; two Maoist camps destroyed",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Maoist killed, C-60 commando injured in encounter in Gadchiroli; two Maoist camps destroyed is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-02-05",
+    "topic": "Farmers stage protest against\u00a0India-U.S. trade deal across Punjab",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Farmers stage protest against\u00a0India-U.S. trade deal across Punjab is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-02-05",
+    "topic": "Between 2019 and 2025, nearly 28% of road accident victims in Karnataka were pedestrians: CJ Vibhu Bakhru",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Between 2019 and 2025, nearly 28% of road accident victims in Karnataka were pedestrians: CJ Vibhu Bakhru is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-02-05",
+    "topic": "India\u2019s strategic future lies in universities, innovation hubs, says  IGCAR former Director",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "India\u2019s strategic future lies in universities, innovation hubs, says  IGCAR former Director is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-02-05",
+    "topic": "Amendment to panchayat raj Act to introduce ballot papers",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Amendment to panchayat raj Act to introduce ballot papers is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -112,11 +176,11 @@
     }
   },
   {
-    "date": "2026-02-04",
-    "topic": "TMC and BJP spar in Rajya Sabha",
+    "date": "2026-02-05",
+    "topic": "Cabinet clears AI-powered software to identify hate speech, misinformation and malicious campaigns",
     "source": "The Hindu",
     "mcq": {
-      "question": "TMC and BJP spar in Rajya Sabha is related to which of the following?",
+      "question": "Cabinet clears AI-powered software to identify hate speech, misinformation and malicious campaigns is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -128,11 +192,11 @@
     }
   },
   {
-    "date": "2026-02-04",
-    "topic": "A \u2018mischievous\u2019 case filed against Minister Palanivel Thiaga Rajan, says Madras High Court",
+    "date": "2026-02-05",
+    "topic": "Supreme Court upholds Telangana High Court decision that free allotment of land to IAMC is \u2018unsustainable\u2019",
     "source": "The Hindu",
     "mcq": {
-      "question": "A \u2018mischievous\u2019 case filed against Minister Palanivel Thiaga Rajan, says Madras High Court is related to which of the following?",
+      "question": "Supreme Court upholds Telangana High Court decision that free allotment of land to IAMC is \u2018unsustainable\u2019 is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -144,11 +208,11 @@
     }
   },
   {
-    "date": "2026-02-04",
-    "topic": "Home Ministry, Ladakh leaders talks remain inconclusive",
+    "date": "2026-02-05",
+    "topic": "UPSC expands conditions for attempting CSEs after being allotted for IPS, Group A Services",
     "source": "The Hindu",
     "mcq": {
-      "question": "Home Ministry, Ladakh leaders talks remain inconclusive is related to which of the following?",
+      "question": "UPSC expands conditions for attempting CSEs after being allotted for IPS, Group A Services is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -160,11 +224,11 @@
     }
   },
   {
-    "date": "2026-02-04",
-    "topic": "Climate models underestimate how much hotter Indian cities are compared to rural areas",
+    "date": "2026-02-05",
+    "topic": "Swadeshabhimani-Kesari award presented to Malayinkeezhu Gopalakrishnan",
     "source": "The Hindu",
     "mcq": {
-      "question": "Climate models underestimate how much hotter Indian cities are compared to rural areas is related to which of the following?",
+      "question": "Swadeshabhimani-Kesari award presented to Malayinkeezhu Gopalakrishnan is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -176,11 +240,11 @@
     }
   },
   {
-    "date": "2026-02-04",
-    "topic": "HC quashes POCSO case against youth who married \u2018survivor\u2019",
+    "date": "2026-02-05",
+    "topic": "\u2018Vignan Mahotsav 2K26\u2019 organised in Guntur",
     "source": "The Hindu",
     "mcq": {
-      "question": "HC quashes POCSO case against youth who married \u2018survivor\u2019 is related to which of the following?",
+      "question": "\u2018Vignan Mahotsav 2K26\u2019 organised in Guntur is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -192,11 +256,11 @@
     }
   },
   {
-    "date": "2026-02-04",
-    "topic": "Piyush Goyal lost moral authority to continue as Minister, says Samyukt Kisan Morcha",
+    "date": "2026-02-05",
+    "topic": "Sri Lankan diplomat lauds Indian government, people for relief efforts following Cyclone Ditwah",
     "source": "The Hindu",
     "mcq": {
-      "question": "Piyush Goyal lost moral authority to continue as Minister, says Samyukt Kisan Morcha is related to which of the following?",
+      "question": "Sri Lankan diplomat lauds Indian government, people for relief efforts following Cyclone Ditwah is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -208,27 +272,11 @@
     }
   },
   {
-    "date": "2026-02-04",
-    "topic": "Supreme Court asks if Centre can reconsider Sonam Wangchuk\u2019s detention on health grounds",
+    "date": "2026-02-05",
+    "topic": "Rajya Sabha adopts Motion to Thank President, Opposition raises questions on U.S. trade deal",
     "source": "The Hindu",
     "mcq": {
-      "question": "Supreme Court asks if Centre can reconsider Sonam Wangchuk\u2019s detention on health grounds is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "Polity",
-      "subject": "Polity"
-    }
-  },
-  {
-    "date": "2026-02-04",
-    "topic": "PM Modi to discuss ties during two-day visit to Malaysia",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "PM Modi to discuss ties during two-day visit to Malaysia is related to which of the following?",
+      "question": "Rajya Sabha adopts Motion to Thank President, Opposition raises questions on U.S. trade deal is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -240,27 +288,11 @@
     }
   },
   {
-    "date": "2026-02-04",
-    "topic": "Litigants can directly approach High Court if police station \u2018rejects\u2019 complainant, says Karnataka HC",
+    "date": "2026-02-05",
+    "topic": "Congress takes out march to condemn Union government for diluting MGNREGA",
     "source": "The Hindu",
     "mcq": {
-      "question": "Litigants can directly approach High Court if police station \u2018rejects\u2019 complainant, says Karnataka HC is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "Polity",
-      "subject": "Polity"
-    }
-  },
-  {
-    "date": "2026-02-04",
-    "topic": "Land for Ayya Vaikunda memorial",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Land for Ayya Vaikunda memorial is related to which of the following?",
+      "question": "Congress takes out march to condemn Union government for diluting MGNREGA is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -272,43 +304,11 @@
     }
   },
   {
-    "date": "2026-02-04",
-    "topic": "Mamata Banerjee\u2019s visit to Supreme Court was part of \u2018scripted drama\u2019: BJP",
+    "date": "2026-02-05",
+    "topic": "NHRC issues notice over allegations of exploitation, forced religious conversion of women at gyms",
     "source": "The Hindu",
     "mcq": {
-      "question": "Mamata Banerjee\u2019s visit to Supreme Court was part of \u2018scripted drama\u2019: BJP is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "Polity",
-      "subject": "Polity"
-    }
-  },
-  {
-    "date": "2026-02-04",
-    "topic": "28 communities included on SEBC list",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "28 communities included on SEBC list is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-02-04",
-    "topic": "Victims recall horrific ordeal during communal violence in Chhattisgarh\u2019s Gariaband",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Victims recall horrific ordeal during communal violence in Chhattisgarh\u2019s Gariaband is related to which of the following?",
+      "question": "NHRC issues notice over allegations of exploitation, forced religious conversion of women at gyms is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
