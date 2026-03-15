@@ -1,10 +1,26 @@
 [
   {
-    "date": "2026-03-14",
-    "topic": "Eluru police unearth child selling racket, two babies rescued",
+    "date": "2026-03-15",
+    "topic": "Deputy CM Bhatti invites Governor for Budget session",
     "source": "The Hindu",
     "mcq": {
-      "question": "Eluru police unearth child selling racket, two babies rescued is related to which of the following?",
+      "question": "Deputy CM Bhatti invites Governor for Budget session is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "Economy",
+      "subject": "Economy"
+    }
+  },
+  {
+    "date": "2026-03-15",
+    "topic": "LPG bookings fall to 77 lakh; Indian crude tanker sails out of UAE\u2019s Fujairah safely",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "LPG bookings fall to 77 lakh; Indian crude tanker sails out of UAE\u2019s Fujairah safely is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -16,11 +32,11 @@
     }
   },
   {
-    "date": "2026-03-14",
-    "topic": "Former MLA Pilot Rohith Reddy found with cocaine during raid at Moinabad farmhouse",
+    "date": "2026-03-15",
+    "topic": "24.7 lakh write foundational literacy and numeracy assessment exam across A.P.",
     "source": "The Hindu",
     "mcq": {
-      "question": "Former MLA Pilot Rohith Reddy found with cocaine during raid at Moinabad farmhouse is related to which of the following?",
+      "question": "24.7 lakh write foundational literacy and numeracy assessment exam across A.P. is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -32,11 +48,27 @@
     }
   },
   {
-    "date": "2026-03-14",
-    "topic": "Water supply to be disrupted in city wards",
+    "date": "2026-03-15",
+    "topic": "Pak terrorist killed near LoC in Baramulla, says Army",
     "source": "The Hindu",
     "mcq": {
-      "question": "Water supply to be disrupted in city wards is related to which of the following?",
+      "question": "Pak terrorist killed near LoC in Baramulla, says Army is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "Defence",
+      "subject": "Defence"
+    }
+  },
+  {
+    "date": "2026-03-15",
+    "topic": "Lands or homes forcibly seized from terror-affected families will be liberated, returned: J&K L-G Manoj Sinha",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Lands or homes forcibly seized from terror-affected families will be liberated, returned: J&K L-G Manoj Sinha is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -48,11 +80,11 @@
     }
   },
   {
-    "date": "2026-03-14",
-    "topic": "TIDCO backs two home-grown startups, invests \u20b925 crore in each",
+    "date": "2026-03-15",
+    "topic": "Parties welcome two-phase West Bengal polls; people will bring down TMC, says BJP",
     "source": "The Hindu",
     "mcq": {
-      "question": "TIDCO backs two home-grown startups, invests \u20b925 crore in each is related to which of the following?",
+      "question": "Parties welcome two-phase West Bengal polls; people will bring down TMC, says BJP is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -64,11 +96,11 @@
     }
   },
   {
-    "date": "2026-03-14",
-    "topic": "Corporation mulling community kitchens to ensure food: Mayor",
+    "date": "2026-03-15",
+    "topic": "Ahead of Id, NC seeks release of Kashmiris booked under UAPA for protesting Khamenei killing",
     "source": "The Hindu",
     "mcq": {
-      "question": "Corporation mulling community kitchens to ensure food: Mayor is related to which of the following?",
+      "question": "Ahead of Id, NC seeks release of Kashmiris booked under UAPA for protesting Khamenei killing is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -80,11 +112,11 @@
     }
   },
   {
-    "date": "2026-03-14",
-    "topic": "CMC organises competitions for school students to mark World Diabetes Day",
+    "date": "2026-03-15",
+    "topic": "Kerala Assembly polls 2026: CPI(M) announces candidates in 86 seats",
     "source": "The Hindu",
     "mcq": {
-      "question": "CMC organises competitions for school students to mark World Diabetes Day is related to which of the following?",
+      "question": "Kerala Assembly polls 2026: CPI(M) announces candidates in 86 seats is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -96,11 +128,11 @@
     }
   },
   {
-    "date": "2026-03-14",
-    "topic": "CM Stalin writes to PM to increase rice procurement",
+    "date": "2026-03-15",
+    "topic": "Hours before Rajya Sabha polling, AIMIM announces to vote for RJD candidate",
     "source": "The Hindu",
     "mcq": {
-      "question": "CM Stalin writes to PM to increase rice procurement is related to which of the following?",
+      "question": "Hours before Rajya Sabha polling, AIMIM announces to vote for RJD candidate is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -112,11 +144,11 @@
     }
   },
   {
-    "date": "2026-03-14",
-    "topic": "Varsity created needless controversy, says renowned feminist historian Uma Chakravarti",
+    "date": "2026-03-15",
+    "topic": "Parties, outfits invoke \u2018Brahmin\u2019 angle to \u2018pandit\u2019 reference in U.P. police recruitment exam",
     "source": "The Hindu",
     "mcq": {
-      "question": "Varsity created needless controversy, says renowned feminist historian Uma Chakravarti is related to which of the following?",
+      "question": "Parties, outfits invoke \u2018Brahmin\u2019 angle to \u2018pandit\u2019 reference in U.P. police recruitment exam is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -128,11 +160,11 @@
     }
   },
   {
-    "date": "2026-03-14",
-    "topic": "Roadside eateries in Vijayawada worst hit by LPG crisis",
+    "date": "2026-03-15",
+    "topic": "Naidu to unveil 58-foot statue of Potti Sriramulu in Amaravati on March 16",
     "source": "The Hindu",
     "mcq": {
-      "question": "Roadside eateries in Vijayawada worst hit by LPG crisis is related to which of the following?",
+      "question": "Naidu to unveil 58-foot statue of Potti Sriramulu in Amaravati on March 16 is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -144,11 +176,43 @@
     }
   },
   {
-    "date": "2026-03-14",
-    "topic": "India at a crossroads, next step to define country\u2019s future: Kamal Haasan",
+    "date": "2026-03-15",
+    "topic": "Diversify agriculture and encourage farmers to grow pulses, Supreme Court tells government",
     "source": "The Hindu",
     "mcq": {
-      "question": "India at a crossroads, next step to define country\u2019s future: Kamal Haasan is related to which of the following?",
+      "question": "Diversify agriculture and encourage farmers to grow pulses, Supreme Court tells government is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "Polity",
+      "subject": "Polity"
+    }
+  },
+  {
+    "date": "2026-03-15",
+    "topic": "UPSC\u2019s new rule: Supreme Court nod must for delay in choosing State DGPs",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "UPSC\u2019s new rule: Supreme Court nod must for delay in choosing State DGPs is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "Polity",
+      "subject": "Polity"
+    }
+  },
+  {
+    "date": "2026-03-15",
+    "topic": "Over 900 chicken pox cases reported in Ernakulam in 2026",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Over 900 chicken pox cases reported in Ernakulam in 2026 is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -160,11 +224,11 @@
     }
   },
   {
-    "date": "2026-03-14",
-    "topic": "India facilitating negotiations within BRICS on West Asia conflict: Jaiswal",
+    "date": "2026-03-15",
+    "topic": "Higher Education dept. sanctions 59 new courses in four universities in Kerala",
     "source": "The Hindu",
     "mcq": {
-      "question": "India facilitating negotiations within BRICS on West Asia conflict: Jaiswal is related to which of the following?",
+      "question": "Higher Education dept. sanctions 59 new courses in four universities in Kerala is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -176,11 +240,11 @@
     }
   },
   {
-    "date": "2026-03-14",
-    "topic": "AQI-enabled bus services launched on Vijayawada-Bengaluru route",
+    "date": "2026-03-15",
+    "topic": "TDP issues show-cause notice to Eluru MP over drugs allegations",
     "source": "The Hindu",
     "mcq": {
-      "question": "AQI-enabled bus services launched on Vijayawada-Bengaluru route is related to which of the following?",
+      "question": "TDP issues show-cause notice to Eluru MP over drugs allegations is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -192,11 +256,11 @@
     }
   },
   {
-    "date": "2026-03-14",
-    "topic": "Kalaburagi Rangayana to organise month-long summer theatre workshop for children",
+    "date": "2026-03-15",
+    "topic": "Young man killed by stray bullet in Uttara Kannada",
     "source": "The Hindu",
     "mcq": {
-      "question": "Kalaburagi Rangayana to organise month-long summer theatre workshop for children is related to which of the following?",
+      "question": "Young man killed by stray bullet in Uttara Kannada is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -208,11 +272,11 @@
     }
   },
   {
-    "date": "2026-03-14",
-    "topic": "Ladakh to protest for safeguards on March 16, despite Sonam Wangchuk release",
+    "date": "2026-03-15",
+    "topic": "Student unions demand probe into death of Ashram school student",
     "source": "The Hindu",
     "mcq": {
-      "question": "Ladakh to protest for safeguards on March 16, despite Sonam Wangchuk release is related to which of the following?",
+      "question": "Student unions demand probe into death of Ashram school student is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -224,11 +288,11 @@
     }
   },
   {
-    "date": "2026-03-14",
-    "topic": "LPG crunch puts strain on mid-day meals for children at schools across India",
+    "date": "2026-03-15",
+    "topic": "PM lauds Speaker for conducting Lok Sabha proceedings with \u2018dedication, patience and impartiality\u2019",
     "source": "The Hindu",
     "mcq": {
-      "question": "LPG crunch puts strain on mid-day meals for children at schools across India is related to which of the following?",
+      "question": "PM lauds Speaker for conducting Lok Sabha proceedings with \u2018dedication, patience and impartiality\u2019 is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -240,75 +304,11 @@
     }
   },
   {
-    "date": "2026-03-14",
-    "topic": "Chief Minister M.K. Stalin meets Deva and Jiva, the child influencers who tell everyone to study",
+    "date": "2026-03-15",
+    "topic": "LDF declares 10 candidates for Kozhikode, UDF, NDA yet to announce nominees",
     "source": "The Hindu",
     "mcq": {
-      "question": "Chief Minister M.K. Stalin meets Deva and Jiva, the child influencers who tell everyone to study is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-03-14",
-    "topic": "Coffee-table book on wildlife of Tamil Nadu launched",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Coffee-table book on wildlife of Tamil Nadu launched is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-03-14",
-    "topic": "SC seeks status report on Ganga bank encroachments",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "SC seeks status report on Ganga bank encroachments is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-03-14",
-    "topic": "Fertilizer stocks for kharif: Centre struggles to avoid crisis",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Fertilizer stocks for kharif: Centre struggles to avoid crisis is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-03-14",
-    "topic": "\u2018Bengaluru\u2019s wet waste has potential to meet 20% of gas consumed by restaurants\u2019",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "\u2018Bengaluru\u2019s wet waste has potential to meet 20% of gas consumed by restaurants\u2019 is related to which of the following?",
+      "question": "LDF declares 10 candidates for Kozhikode, UDF, NDA yet to announce nominees is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
