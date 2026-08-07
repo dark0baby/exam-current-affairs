@@ -1,221 +1,221 @@
 # Daily Current Affairs – 2026-08-07
 
-## FCRA Bill is ‘religion-neutral’, Shah assures Christian bodies
+## Hyderabad’s new elevated corridor reshapes a neighbourhood, one shop at a time
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Hyderabad’s new elevated corridor reshapes a neighbourhood, one shop at a time is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## In Modi’s Gen-Z outreach, parents are the key target
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. In Modi’s Gen-Z outreach, parents are the key target is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## ATREE unveils LakeRevive tool for science-based lake restoration
+**Subject:** Science & Tech
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. ATREE unveils LakeRevive tool for science-based lake restoration is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: Science & Tech
+
+---
+## India counters China, formally names 27 places in Arunachal Pradesh
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. India counters China, formally names 27 places in Arunachal Pradesh is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Congress exploring multiple options to satisfy ministerial aspirants, induct women into Cabinet
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Congress exploring multiple options to satisfy ministerial aspirants, induct women into Cabinet is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Jadavpur University ragging death: after 3 years of court dates and police station visits, father still awaits justice
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Jadavpur University ragging death: after 3 years of court dates and police station visits, father still awaits justice is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Ahead of 2027 Punjab polls, AAP’s welfare spree sparks questions over timing, intent
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Ahead of 2027 Punjab polls, AAP’s welfare spree sparks questions over timing, intent is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Congress’s remarks on Pralhad Joshi are misleading, condemnable, says BJP
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Congress’s remarks on Pralhad Joshi are misleading, condemnable, says BJP is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Unwise to link women’s quota with delimitation: K.T. Rama Rao
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Unwise to link women’s quota with delimitation: K.T. Rama Rao is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## India’s Gen Z wants Pakistan to end terror activities: govt
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. FCRA Bill is ‘religion-neutral’, Shah assures Christian bodies is related to which of the following?  
+Q. India’s Gen Z wants Pakistan to end terror activities: govt is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## CBI arrests four accused persons in tech-support fraud case
+## Health department forms 30 special teams to inspect hotels, restaurants, food outlets across Bengaluru
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. CBI arrests four accused persons in tech-support fraud case is related to which of the following?  
+Q. Health department forms 30 special teams to inspect hotels, restaurants, food outlets across Bengaluru is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Telangana extends industrial land conversion applications under HILTP till October
+## KL deemed University signs MoU with Vajiram & Ravi for civil services coaching
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Telangana extends industrial land conversion applications under HILTP till October is related to which of the following?  
+Q. KL deemed University signs MoU with Vajiram & Ravi for civil services coaching is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Collaboration, not blame game, needed to tackle floods, says Nagaland Minister
+## Jharkhand government holds talks with student protesters in Ranchi; meeting inconclusive
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Collaboration, not blame game, needed to tackle floods, says Nagaland Minister is related to which of the following?  
+Q. Jharkhand government holds talks with student protesters in Ranchi; meeting inconclusive is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## PM urges people to mark National Handloom Day
+## Eco tourism-based livelihood opportunities, the only way forward for tiger conservation in Telangana, say experts
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. PM urges people to mark National Handloom Day is related to which of the following?  
+Q. Eco tourism-based livelihood opportunities, the only way forward for tiger conservation in Telangana, say experts is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Rajya Sabha clears Appropriation Bill for expenditure of ₹54,067 crore
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Rajya Sabha clears Appropriation Bill for expenditure of ₹54,067 crore is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## DMK lays down conditions to support delimitation Bill
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. DMK lays down conditions to support delimitation Bill is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## Starvation pushing mother to kill child a ‘collective failure’, says Gujarat High Court
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Starvation pushing mother to kill child a ‘collective failure’, says Gujarat High Court is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## IIT Madras incubated deep tech firm Solinas Integrity raises funds for expansion
+## Cockroaches spreading their filth, who is birthing them?: Kangana Ranaut on CJP-led protests
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. IIT Madras incubated deep tech firm Solinas Integrity raises funds for expansion is related to which of the following?  
+Q. Cockroaches spreading their filth, who is birthing them?: Kangana Ranaut on CJP-led protests is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## RJD dissolves organisational units after Bankipur loss amid calls to ‘get rid of sycophants’
+## Three construction workers trapped in landslip in Kerala’s Kasaragod rescued
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. RJD dissolves organisational units after Bankipur loss amid calls to ‘get rid of sycophants’ is related to which of the following?  
+Q. Three construction workers trapped in landslip in Kerala’s Kasaragod rescued is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## VIT Chancellor calls on Union Civil Aviation Minister; seeks opening of new airport in Vellore
+## SSI held on bribery charges in Tirupattur
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. VIT Chancellor calls on Union Civil Aviation Minister; seeks opening of new airport in Vellore is related to which of the following?  
+Q. SSI held on bribery charges in Tirupattur is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Online liquor orders will curb overcharging at Tasmac counters, says Minister
+## Girl who went missing from Aluva in Kochi traced to Pune
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Online liquor orders will curb overcharging at Tasmac counters, says Minister is related to which of the following?  
+Q. Girl who went missing from Aluva in Kochi traced to Pune is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Karnataka postpones Agriculture Officers’ recruitment exam after student protests
+## India has sent ‘formal’ invite to Nepal PM Balendra Shah: MEA
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Karnataka postpones Agriculture Officers’ recruitment exam after student protests is related to which of the following?  
+Q. India has sent ‘formal’ invite to Nepal PM Balendra Shah: MEA is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## With new SOP and software, revenue recovery in RERA cases expected to pick up pace
+## T.N. Housing Minister to inaugurate The Hindu Real Estate & Infrastructure Summit 2026 on July 30
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. With new SOP and software, revenue recovery in RERA cases expected to pick up pace is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Karnataka High Court asks State’s response to plea complaining about impact of tunnel road project to Hebbal lake
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Karnataka High Court asks State’s response to plea complaining about impact of tunnel road project to Hebbal lake is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## Upalokayukta directs action against illegal homestays, resorts in Hampi
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Upalokayukta directs action against illegal homestays, resorts in Hampi is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## SC allows interim bail to cyber-security researcher in case relating to unauthorised accessing of computer networks
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. SC allows interim bail to cyber-security researcher in case relating to unauthorised accessing of computer networks is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## AIUTUC demands immediate implementation of revised minimum wages
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. AIUTUC demands immediate implementation of revised minimum wages is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## CM urges PM to expedite Godavari-Cauvery-Gundar river link project
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. CM urges PM to expedite Godavari-Cauvery-Gundar river link project is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## HC convicts Tarun Tejpal in 2013 sexual assault case, sentences him to 10 years
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. HC convicts Tarun Tejpal in 2013 sexual assault case, sentences him to 10 years is related to which of the following?  
+Q. T.N. Housing Minister to inaugurate The Hindu Real Estate & Infrastructure Summit 2026 on July 30 is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
