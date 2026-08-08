@@ -1,10 +1,42 @@
 [
   {
-    "date": "2026-08-07",
-    "topic": "Hyderabad\u2019s new elevated corridor reshapes a neighbourhood, one shop at a time",
+    "date": "2026-08-08",
+    "topic": "PAC grills Defence Ministry over pay delays, unlicensed X-ray machines",
     "source": "The Hindu",
     "mcq": {
-      "question": "Hyderabad\u2019s new elevated corridor reshapes a neighbourhood, one shop at a time is related to which of the following?",
+      "question": "PAC grills Defence Ministry over pay delays, unlicensed X-ray machines is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "Defence",
+      "subject": "Defence"
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "topic": "Tamil Nadu Budget 2026: Allocation for higher education drops; educationists react sharply",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Tamil Nadu Budget 2026: Allocation for higher education drops; educationists react sharply is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "Economy",
+      "subject": "Economy"
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "topic": "Yaduveer raises question on use of AI in Minority Welfare schemes",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Yaduveer raises question on use of AI in Minority Welfare schemes is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -16,11 +48,27 @@
     }
   },
   {
-    "date": "2026-08-07",
-    "topic": "In Modi\u2019s Gen-Z outreach, parents are the key target",
+    "date": "2026-08-08",
+    "topic": "India\u2019s Experience Economy set to reach $59.2 billion by 2030: EEMA president",
     "source": "The Hindu",
     "mcq": {
-      "question": "In Modi\u2019s Gen-Z outreach, parents are the key target is related to which of the following?",
+      "question": "India\u2019s Experience Economy set to reach $59.2 billion by 2030: EEMA president is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "Economy",
+      "subject": "Economy"
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "topic": "Burns and Plastic Surgery Block opened at AIIMS, Mangalagiri",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Burns and Plastic Surgery Block opened at AIIMS, Mangalagiri is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -32,123 +80,11 @@
     }
   },
   {
-    "date": "2026-08-07",
-    "topic": "ATREE unveils LakeRevive tool for science-based lake restoration",
+    "date": "2026-08-08",
+    "topic": "Attack of ED officials: Kerala High Court grants bail to one more accused",
     "source": "The Hindu",
     "mcq": {
-      "question": "ATREE unveils LakeRevive tool for science-based lake restoration is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "Science & Tech",
-      "subject": "Science & Tech"
-    }
-  },
-  {
-    "date": "2026-08-07",
-    "topic": "India counters China, formally names 27 places in Arunachal Pradesh",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "India counters China, formally names 27 places in Arunachal Pradesh is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-08-07",
-    "topic": "Congress exploring multiple options to satisfy ministerial aspirants, induct women into Cabinet",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Congress exploring multiple options to satisfy ministerial aspirants, induct women into Cabinet is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-08-07",
-    "topic": "Jadavpur University ragging death: after 3 years of court dates and police station visits, father still awaits justice",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Jadavpur University ragging death: after 3 years of court dates and police station visits, father still awaits justice is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-08-07",
-    "topic": "Ahead of 2027 Punjab polls, AAP\u2019s welfare spree sparks questions over timing, intent",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Ahead of 2027 Punjab polls, AAP\u2019s welfare spree sparks questions over timing, intent is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-08-07",
-    "topic": "Congress\u2019s remarks on Pralhad Joshi are misleading, condemnable, says BJP",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Congress\u2019s remarks on Pralhad Joshi are misleading, condemnable, says BJP is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-08-07",
-    "topic": "Unwise to link women\u2019s quota with delimitation: K.T. Rama Rao",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Unwise to link women\u2019s quota with delimitation: K.T. Rama Rao is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-08-07",
-    "topic": "India\u2019s Gen Z wants Pakistan to end terror activities: govt",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "India\u2019s Gen Z wants Pakistan to end terror activities: govt is related to which of the following?",
+      "question": "Attack of ED officials: Kerala High Court grants bail to one more accused is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -160,11 +96,11 @@
     }
   },
   {
-    "date": "2026-08-07",
-    "topic": "Health department forms 30 special teams to inspect hotels, restaurants, food outlets across Bengaluru",
+    "date": "2026-08-08",
+    "topic": "Collector, PCB officials to conduct joint inspection at waste treatment unit in Kerala\u2019s Kozhikode",
     "source": "The Hindu",
     "mcq": {
-      "question": "Health department forms 30 special teams to inspect hotels, restaurants, food outlets across Bengaluru is related to which of the following?",
+      "question": "Collector, PCB officials to conduct joint inspection at waste treatment unit in Kerala\u2019s Kozhikode is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -176,11 +112,11 @@
     }
   },
   {
-    "date": "2026-08-07",
-    "topic": "KL deemed University signs MoU with Vajiram & Ravi for civil services coaching",
+    "date": "2026-08-08",
+    "topic": "CM seeks U.S. support on education and investments",
     "source": "The Hindu",
     "mcq": {
-      "question": "KL deemed University signs MoU with Vajiram & Ravi for civil services coaching is related to which of the following?",
+      "question": "CM seeks U.S. support on education and investments is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -192,11 +128,11 @@
     }
   },
   {
-    "date": "2026-08-07",
-    "topic": "Jharkhand government holds talks with student protesters in Ranchi; meeting inconclusive",
+    "date": "2026-08-08",
+    "topic": "Muslim leaders seek Cabinet berth for community representative from Kalyana Karnataka",
     "source": "The Hindu",
     "mcq": {
-      "question": "Jharkhand government holds talks with student protesters in Ranchi; meeting inconclusive is related to which of the following?",
+      "question": "Muslim leaders seek Cabinet berth for community representative from Kalyana Karnataka is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -208,11 +144,11 @@
     }
   },
   {
-    "date": "2026-08-07",
-    "topic": "Eco tourism-based livelihood opportunities, the only way forward for tiger conservation in Telangana, say experts",
+    "date": "2026-08-08",
+    "topic": "Kochi Corporation proposes buyback of old fishing gear to address safety threats to ro-ro services",
     "source": "The Hindu",
     "mcq": {
-      "question": "Eco tourism-based livelihood opportunities, the only way forward for tiger conservation in Telangana, say experts is related to which of the following?",
+      "question": "Kochi Corporation proposes buyback of old fishing gear to address safety threats to ro-ro services is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -224,11 +160,11 @@
     }
   },
   {
-    "date": "2026-08-07",
-    "topic": "Cockroaches spreading their filth, who is birthing them?: Kangana Ranaut on CJP-led protests",
+    "date": "2026-08-08",
+    "topic": "AIADMK\u2019s rebel senior legislators meet Water Resources Minister",
     "source": "The Hindu",
     "mcq": {
-      "question": "Cockroaches spreading their filth, who is birthing them?: Kangana Ranaut on CJP-led protests is related to which of the following?",
+      "question": "AIADMK\u2019s rebel senior legislators meet Water Resources Minister is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -240,11 +176,27 @@
     }
   },
   {
-    "date": "2026-08-07",
-    "topic": "Three construction workers trapped in landslip in Kerala\u2019s Kasaragod rescued",
+    "date": "2026-08-08",
+    "topic": "Tamil Nadu Budget 2026: Government announces AI planning approvals, new housing scheme",
     "source": "The Hindu",
     "mcq": {
-      "question": "Three construction workers trapped in landslip in Kerala\u2019s Kasaragod rescued is related to which of the following?",
+      "question": "Tamil Nadu Budget 2026: Government announces AI planning approvals, new housing scheme is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "Economy",
+      "subject": "Economy"
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "topic": "Echo sentiments of Opposition to Home Minister: Rajya Sabha Chairman tells government",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Echo sentiments of Opposition to Home Minister: Rajya Sabha Chairman tells government is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -256,11 +208,11 @@
     }
   },
   {
-    "date": "2026-08-07",
-    "topic": "SSI held on bribery charges in Tirupattur",
+    "date": "2026-08-08",
+    "topic": "Passenger arrested for attempting to open emergency exit on Kochi-bound flight from Kuala Lumpur mid-air",
     "source": "The Hindu",
     "mcq": {
-      "question": "SSI held on bribery charges in Tirupattur is related to which of the following?",
+      "question": "Passenger arrested for attempting to open emergency exit on Kochi-bound flight from Kuala Lumpur mid-air is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -272,11 +224,75 @@
     }
   },
   {
-    "date": "2026-08-07",
-    "topic": "Girl who went missing from Aluva in Kochi traced to Pune",
+    "date": "2026-08-08",
+    "topic": "11 fishermen apprehended by Sri Lankan Navy near Needuntheevu islet",
     "source": "The Hindu",
     "mcq": {
-      "question": "Girl who went missing from Aluva in Kochi traced to Pune is related to which of the following?",
+      "question": "11 fishermen apprehended by Sri Lankan Navy near Needuntheevu islet is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "Defence",
+      "subject": "Defence"
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "topic": "Lok Sabha passes Bill to authorise Govt. to permit banks to levy charges on UPI transactions",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Lok Sabha passes Bill to authorise Govt. to permit banks to levy charges on UPI transactions is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "Polity",
+      "subject": "Polity"
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "topic": "Tamil Nadu Budget 2026: Healthcare spending continues to rise in State",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Tamil Nadu Budget 2026: Healthcare spending continues to rise in State is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "Economy",
+      "subject": "Economy"
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "topic": "T.N. Agriculture Budget: \u20b9600 crore over five years for Tamil Nadu Soil Fertility Mission",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "T.N. Agriculture Budget: \u20b9600 crore over five years for Tamil Nadu Soil Fertility Mission is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "Economy",
+      "subject": "Economy"
+    }
+  },
+  {
+    "date": "2026-08-08",
+    "topic": "Drunk techie arrested for firing air gun from apartment balcony over verbal fight with family",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Drunk techie arrested for firing air gun from apartment balcony over verbal fight with family is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -288,27 +304,11 @@
     }
   },
   {
-    "date": "2026-08-07",
-    "topic": "India has sent \u2018formal\u2019 invite to Nepal PM Balendra Shah: MEA",
+    "date": "2026-08-08",
+    "topic": "India SME Forum announces AP SME Awards 2026",
     "source": "The Hindu",
     "mcq": {
-      "question": "India has sent \u2018formal\u2019 invite to Nepal PM Balendra Shah: MEA is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-08-07",
-    "topic": "T.N. Housing Minister to inaugurate The Hindu Real Estate & Infrastructure Summit 2026 on July 30",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "T.N. Housing Minister to inaugurate The Hindu Real Estate & Infrastructure Summit 2026 on July 30 is related to which of the following?",
+      "question": "India SME Forum announces AP SME Awards 2026 is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
