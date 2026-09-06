@@ -1,10 +1,10 @@
 [
   {
-    "date": "2026-09-05",
-    "topic": "Spotlight on illegal coal trade in Meghalaya after truck accident",
+    "date": "2026-09-06",
+    "topic": "CJP demands accountability over South Delhi hostel collapse; Dipke questions PM",
     "source": "The Hindu",
     "mcq": {
-      "question": "Spotlight on illegal coal trade in Meghalaya after truck accident is related to which of the following?",
+      "question": "CJP demands accountability over South Delhi hostel collapse; Dipke questions PM is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -16,27 +16,11 @@
     }
   },
   {
-    "date": "2026-09-05",
-    "topic": "342 complete training at OTA; commissioned as officers in Indian Army",
+    "date": "2026-09-06",
+    "topic": "The political cost of unconditional cash transfers",
     "source": "The Hindu",
     "mcq": {
-      "question": "342 complete training at OTA; commissioned as officers in Indian Army is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "Defence",
-      "subject": "Defence"
-    }
-  },
-  {
-    "date": "2026-09-05",
-    "topic": "China to proceed with Brahmaputra mega dam despite new concerns",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "China to proceed with Brahmaputra mega dam despite new concerns is related to which of the following?",
+      "question": "The political cost of unconditional cash transfers is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -48,11 +32,11 @@
     }
   },
   {
-    "date": "2026-09-05",
-    "topic": "Second homes, lifestyle upgrades fuel interest at property expo",
+    "date": "2026-09-06",
+    "topic": "India-France relations have reached new heights: PM Modi",
     "source": "The Hindu",
     "mcq": {
-      "question": "Second homes, lifestyle upgrades fuel interest at property expo is related to which of the following?",
+      "question": "India-France relations have reached new heights: PM Modi is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -64,11 +48,11 @@
     }
   },
   {
-    "date": "2026-09-05",
-    "topic": "Assured transit-time container train service launched between Bengaluru and Delhi",
+    "date": "2026-09-06",
+    "topic": "Spate of thefts triggers security concerns in Ernakulam district",
     "source": "The Hindu",
     "mcq": {
-      "question": "Assured transit-time container train service launched between Bengaluru and Delhi is related to which of the following?",
+      "question": "Spate of thefts triggers security concerns in Ernakulam district is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -80,11 +64,91 @@
     }
   },
   {
-    "date": "2026-09-05",
-    "topic": "Eight High Court judges appointed as Chief Justices",
+    "date": "2026-09-06",
+    "topic": "Safety violations put NH 66 users at risk in Kozhikode",
     "source": "The Hindu",
     "mcq": {
-      "question": "Eight High Court judges appointed as Chief Justices is related to which of the following?",
+      "question": "Safety violations put NH 66 users at risk in Kozhikode is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-06",
+    "topic": "BJP to go alone in Bengal civic polls, no alliance with NCPI, says Samik Bhattacharya",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "BJP to go alone in Bengal civic polls, no alliance with NCPI, says Samik Bhattacharya is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-06",
+    "topic": "Six forest officials suspended for letting tribals illegally cultivate over 1,000 acres of land in Jawadhu Hills",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Six forest officials suspended for letting tribals illegally cultivate over 1,000 acres of land in Jawadhu Hills is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-06",
+    "topic": "Four police officers suspended over custodial torture complaint",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Four police officers suspended over custodial torture complaint is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-06",
+    "topic": "Over 94,000 schools closed down across the country over the past decade: AIDSO State president",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Over 94,000 schools closed down across the country over the past decade: AIDSO State president is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-06",
+    "topic": "No provision in Forest Rights Act to obtain gram sabha consent for projects, Tribal Affairs Ministry says",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "No provision in Forest Rights Act to obtain gram sabha consent for projects, Tribal Affairs Ministry says is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -96,11 +160,11 @@
     }
   },
   {
-    "date": "2026-09-05",
-    "topic": "The Hindu Made of Chennai treasure hunt takes participants on a city-wide trail",
+    "date": "2026-09-06",
+    "topic": "Kozhikode Corporation recalls medicines after councillors flag expiry concerns",
     "source": "The Hindu",
     "mcq": {
-      "question": "The Hindu Made of Chennai treasure hunt takes participants on a city-wide trail is related to which of the following?",
+      "question": "Kozhikode Corporation recalls medicines after councillors flag expiry concerns is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -112,11 +176,11 @@
     }
   },
   {
-    "date": "2026-09-05",
-    "topic": "Tiruvannamalai gets auto stand for women drivers",
+    "date": "2026-09-06",
+    "topic": "Keralam govt to decide on PM-SHRI scheme after cabinet panel report: Minister",
     "source": "The Hindu",
     "mcq": {
-      "question": "Tiruvannamalai gets auto stand for women drivers is related to which of the following?",
+      "question": "Keralam govt to decide on PM-SHRI scheme after cabinet panel report: Minister is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -128,155 +192,11 @@
     }
   },
   {
-    "date": "2026-09-05",
-    "topic": "Scheduled Caste panel issues notice to the Punjab government on quota implementation in lecturer recruitment",
+    "date": "2026-09-06",
+    "topic": "PM Modi used student interaction as political campaign: Kharge",
     "source": "The Hindu",
     "mcq": {
-      "question": "Scheduled Caste panel issues notice to the Punjab government on quota implementation in lecturer recruitment is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-05",
-    "topic": "Traffic diversions announced for CM\u2019s public meeting, foot rally on Sunday (September 6)",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Traffic diversions announced for CM\u2019s public meeting, foot rally on Sunday (September 6) is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-05",
-    "topic": "Applications invited for journalist awards in A.P.",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Applications invited for journalist awards in A.P. is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-05",
-    "topic": "Kanthapuram says will defend Shariat laws no matter whoever opposes it",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Kanthapuram says will defend Shariat laws no matter whoever opposes it is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-05",
-    "topic": "Lokayukta registers suo motu case over lack of medical aid at Shivajinagar bus stand",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Lokayukta registers suo motu case over lack of medical aid at Shivajinagar bus stand is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-05",
-    "topic": "79 monoliths and a mountain of challenges: reconstructing a Nayak-era wonder",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "79 monoliths and a mountain of challenges: reconstructing a Nayak-era wonder is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-05",
-    "topic": "Overpriced popcorn, bottled water in multiplexes: Keralam govt. agencies begin inspections",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Overpriced popcorn, bottled water in multiplexes: Keralam govt. agencies begin inspections is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-05",
-    "topic": "Kanthapuram A.P. Aboobacker | Power beyond the pulpit",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Kanthapuram A.P. Aboobacker | Power beyond the pulpit is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-05",
-    "topic": "Woman alleges \u20b91.5 lakh fraud in promise of CM relief fund assistance",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Woman alleges \u20b91.5 lakh fraud in promise of CM relief fund assistance is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-05",
-    "topic": "Supreme Court wants affidavit on IPS postings in CAPFs, continues oversight of 2025 judgment",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Supreme Court wants affidavit on IPS postings in CAPFs, continues oversight of 2025 judgment is related to which of the following?",
+      "question": "PM Modi used student interaction as political campaign: Kharge is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -288,11 +208,11 @@
     }
   },
   {
-    "date": "2026-09-05",
-    "topic": "AI university consultation panel holds first meeting, discusses phased establishment",
+    "date": "2026-09-06",
+    "topic": "Dalit leader accused of harassing poor Dalits",
     "source": "The Hindu",
     "mcq": {
-      "question": "AI university consultation panel holds first meeting, discusses phased establishment is related to which of the following?",
+      "question": "Dalit leader accused of harassing poor Dalits is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -304,11 +224,91 @@
     }
   },
   {
-    "date": "2026-09-05",
-    "topic": "NIA chargesheets 13 accused in espionage case",
+    "date": "2026-09-06",
+    "topic": "BeLa presents awards to teachers in Belagavi district",
     "source": "The Hindu",
     "mcq": {
-      "question": "NIA chargesheets 13 accused in espionage case is related to which of the following?",
+      "question": "BeLa presents awards to teachers in Belagavi district is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-06",
+    "topic": "Award for scientist",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Award for scientist is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-06",
+    "topic": "1,744 booked for drunk driving in Hyderabad, Cyberabad and Future City",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "1,744 booked for drunk driving in Hyderabad, Cyberabad and Future City is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-06",
+    "topic": "We were offered crores of rupees, ministerial posts, but we stood by principles, claims IUML Vaniyambadi MLA",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "We were offered crores of rupees, ministerial posts, but we stood by principles, claims IUML Vaniyambadi MLA is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-06",
+    "topic": "Coimbatore, an ideal choice for district cooling systems",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Coimbatore, an ideal choice for district cooling systems is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-06",
+    "topic": "A.P. NGO welcomes UN\u2019s declaration of November 27 as Global Day Against Child Marriage",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "A.P. NGO welcomes UN\u2019s declaration of November 27 as Global Day Against Child Marriage is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
