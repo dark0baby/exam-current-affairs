@@ -1,10 +1,282 @@
 [
   {
-    "date": "2026-09-10",
-    "topic": "VIT Chennai \u2013 The Hindu Biotech Conclave to throw spotlight on opportunities shaping the future of life sciences",
+    "date": "2026-09-11",
+    "topic": "With eye on poll, BJP to begin \u2018drug-free Punjab\u2019 drive amid row over Dalit villager\u2019s death",
     "source": "The Hindu",
     "mcq": {
-      "question": "VIT Chennai \u2013 The Hindu Biotech Conclave to throw spotlight on opportunities shaping the future of life sciences is related to which of the following?",
+      "question": "With eye on poll, BJP to begin \u2018drug-free Punjab\u2019 drive amid row over Dalit villager\u2019s death is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "\u2018Reading kept me going\u2019: Noida stir accused who cracked NET",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "\u2018Reading kept me going\u2019: Noida stir accused who cracked NET is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "SHRC orders NHAI to ready underpass near Edappally in two months",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "SHRC orders NHAI to ready underpass near Edappally in two months is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "Chander Kunj Army Towers: apartment owners call for appointment of project officer amid demolition delays",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Chander Kunj Army Towers: apartment owners call for appointment of project officer amid demolition delays is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "Defence",
+      "subject": "Defence"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "BRICS Summit 2026 updates on Sept.11: PM Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "BRICS Summit 2026 updates on Sept.11: PM Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "Three Kashmir religious leaders, including Mirwaiz, attend Iran embassy exhibition in Delhi",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Three Kashmir religious leaders, including Mirwaiz, attend Iran embassy exhibition in Delhi is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "India and Canada are well beyond reset now, says Canadian High Commissioner to India",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "India and Canada are well beyond reset now, says Canadian High Commissioner to India is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "End Ukraine war, says Modi as he meets Putin during bilateral ahead of BRICS summit",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "End Ukraine war, says Modi as he meets Putin during bilateral ahead of BRICS summit is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "Climate change has become an economic risk: KSPCB chairman",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Climate change has become an economic risk: KSPCB chairman is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "Trade union seeks legislation to regularise outsourced power sector workers",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Trade union seeks legislation to regularise outsourced power sector workers is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "Devotees urge Vijay to take steps to retrieve properties of Nungambakkam temple",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Devotees urge Vijay to take steps to retrieve properties of Nungambakkam temple is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "When home in Delhi became a death trap: Satya Niketan building collapse",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "When home in Delhi became a death trap: Satya Niketan building collapse is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "UN chief Guterres meets PM Modi; discusses West Asia, Ukraine conflicts",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "UN chief Guterres meets PM Modi; discusses West Asia, Ukraine conflicts is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "E-commerce platforms should settle complaints in  a month, say new govt. rules",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "E-commerce platforms should settle complaints in  a month, say new govt. rules is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "Andhra Pradesh notifies Excise Shops Policy 2026-27, retains 3,736 liquor outlets",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Andhra Pradesh notifies Excise Shops Policy 2026-27, retains 3,736 liquor outlets is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "College student attacked in Keralam\u2019s Thonnakkal",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "College student attacked in Keralam\u2019s Thonnakkal is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "37 deep-tech innovations on display at Bharat Innovates Exposition on Sep 11-12",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "37 deep-tech innovations on display at Bharat Innovates Exposition on Sep 11-12 is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "topic": "The Hindu In School Science Fest, Maths Olympiad showcase young talent",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "The Hindu In School Science Fest, Maths Olympiad showcase young talent is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -16,11 +288,11 @@
     }
   },
   {
-    "date": "2026-09-10",
-    "topic": "Wars, global crises may top agenda of 18th BRICS summit",
+    "date": "2026-09-11",
+    "topic": "First randomisation of EVMs, VVPAT units for Madurantakam, Dharapuram bypolls on September 12",
     "source": "The Hindu",
     "mcq": {
-      "question": "Wars, global crises may top agenda of 18th BRICS summit is related to which of the following?",
+      "question": "First randomisation of EVMs, VVPAT units for Madurantakam, Dharapuram bypolls on September 12 is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -32,283 +304,11 @@
     }
   },
   {
-    "date": "2026-09-10",
-    "topic": "Mayawati \u2018frees\u2019 her nephew Akash Anand from BSP after his father-in-law quits politics",
+    "date": "2026-09-11",
+    "topic": "Recognise human potential beyond business opportunities: Sashikumar Sreedharan",
     "source": "The Hindu",
     "mcq": {
-      "question": "Mayawati \u2018frees\u2019 her nephew Akash Anand from BSP after his father-in-law quits politics is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "1,071 out of 2,100 police stations in Tamil Nadu have been equipped to retain their CCTV footage for 18 months, T.N. DGP tells Madras High Court",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "1,071 out of 2,100 police stations in Tamil Nadu have been equipped to retain their CCTV footage for 18 months, T.N. DGP tells Madras High Court is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "Polity",
-      "subject": "Polity"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "Advocate Commissioners\u2019 fees in SARFAESI cases must be proportionate to the work involved, rules Madras High Court",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Advocate Commissioners\u2019 fees in SARFAESI cases must be proportionate to the work involved, rules Madras High Court is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "Polity",
-      "subject": "Polity"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "BJP loses power in Paralam panchayat as LDF supports UDF no-trust motion",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "BJP loses power in Paralam panchayat as LDF supports UDF no-trust motion is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "A wake-up call to keep the mind hale and hearty",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "A wake-up call to keep the mind hale and hearty is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "17 foreigners in Meghalaya jail after completing sentence, High Court finds",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "17 foreigners in Meghalaya jail after completing sentence, High Court finds is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "Polity",
-      "subject": "Polity"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "The boom and bust of sporting culture in A.P.",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "The boom and bust of sporting culture in A.P. is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "Sri Sathya Sai village launches community surveillance to enhance security, combat crime",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Sri Sathya Sai village launches community surveillance to enhance security, combat crime is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "India, U.S. armies step up combat interoperability with 22nd Yudh Abhyas",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "India, U.S. armies step up combat interoperability with 22nd Yudh Abhyas is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "W.B. Assembly passes Bill for inter-university transfer of teachers and non-teaching staffers",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "W.B. Assembly passes Bill for inter-university transfer of teachers and non-teaching staffers is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "Polity",
-      "subject": "Polity"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "Haemodialysis machines donated to TANKER Foundation",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Haemodialysis machines donated to TANKER Foundation is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "AIADMK functionary held in Tirupattur for illegal sand mining",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "AIADMK functionary held in Tirupattur for illegal sand mining is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "BHEL organises inter-unit Hockey tournament in Ranipet",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "BHEL organises inter-unit Hockey tournament in Ranipet is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "KCR farmhouse clashes: Three SC/ST Act cases booked",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "KCR farmhouse clashes: Three SC/ST Act cases booked is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "Polity",
-      "subject": "Polity"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "Women\u2019s workforce participation rises, but funding and leadership gaps remain",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Women\u2019s workforce participation rises, but funding and leadership gaps remain is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "SC asks Centre to reconsider NEET-SS qualifying percentile cut-off",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "SC asks Centre to reconsider NEET-SS qualifying percentile cut-off is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "Up close with Chinna Thambi: a privilege and a curse",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Up close with Chinna Thambi: a privilege and a curse is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-09-10",
-    "topic": "NSCN-IM using Naga-Kuki tensions to divert attention, say Kuki-Zo insurgent groups",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "NSCN-IM using Naga-Kuki tensions to divert attention, say Kuki-Zo insurgent groups is related to which of the following?",
+      "question": "Recognise human potential beyond business opportunities: Sashikumar Sreedharan is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
