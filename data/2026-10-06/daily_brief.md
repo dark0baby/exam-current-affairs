@@ -1,221 +1,221 @@
 # Daily Current Affairs – 2026-10-06
 
-## Voting in high-stakes bypolls in three States, one U.T. today | LIVE
+## NDA wins 34 of 42 Silchar Municipal Corporation seats
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Voting in high-stakes bypolls in three States, one U.T. today | LIVE is related to which of the following?  
+Q. NDA wins 34 of 42 Silchar Municipal Corporation seats is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Fire breaks out on reality show set at Goregaon Film City; no injuries reported
+## Passenger bus, running under recently launched M.P. govt service, gutted in fire; passengers evacuated safely
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Fire breaks out on reality show set at Goregaon Film City; no injuries reported is related to which of the following?  
+Q. Passenger bus, running under recently launched M.P. govt service, gutted in fire; passengers evacuated safely is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Mayawati reappoints Akash Anand as national convener in BSP
+## About 76% voter turnout in Nagaon Lok Sabha bypoll
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Mayawati reappoints Akash Anand as national convener in BSP is related to which of the following?  
+Q. About 76% voter turnout in Nagaon Lok Sabha bypoll is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Supreme Court quashes Bombay HC order directing Maharashtra FDA to pay ₹5 lakh compensation
+## Fertiliser hoarding, black marketing to be curbed in rabi crop season in Rajasthan
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Fertiliser hoarding, black marketing to be curbed in rabi crop season in Rajasthan is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Gajendra Singh Patel accuses Hemant Soren government of encouraging infiltration in Jharkhand
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Gajendra Singh Patel accuses Hemant Soren government of encouraging infiltration in Jharkhand is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Kerala High Court sets aside detention order of Thiruvananthapuram councillor R. Sugathan
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Supreme Court quashes Bombay HC order directing Maharashtra FDA to pay ₹5 lakh compensation is related to which of the following?  
+Q. Kerala High Court sets aside detention order of Thiruvananthapuram councillor R. Sugathan is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## Set to leave party, NC MP Ruhullah meets students at Kashmir University, calls for ‘restoring students’ voice’
+## Ladli Behna scheme has turned out to be ‘very expensive’, says Madhya Pradesh CM
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Set to leave party, NC MP Ruhullah meets students at Kashmir University, calls for ‘restoring students’ voice’ is related to which of the following?  
+Q. Ladli Behna scheme has turned out to be ‘very expensive’, says Madhya Pradesh CM is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## 19,000 West Bengal voters to miss bypolls as appeals remain pending in tribunals
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. 19,000 West Bengal voters to miss bypolls as appeals remain pending in tribunals is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## CEC Gyanesh Kumar has lost public trust and must be removed, say former bureaucrats, activists
+## Act against illegal resorts and homestays in tiger reserves: Ramalinga Reddy
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. CEC Gyanesh Kumar has lost public trust and must be removed, say former bureaucrats, activists is related to which of the following?  
+Q. Act against illegal resorts and homestays in tiger reserves: Ramalinga Reddy is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## Gyanesh Kumar changed Form 6 ‘illegally’ during SIR, says Rahul Gandhi
+## Milk price in Karnataka may go up by ₹8, but only after Legislative Council polls
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Gyanesh Kumar changed Form 6 ‘illegally’ during SIR, says Rahul Gandhi is related to which of the following?  
+Q. Milk price in Karnataka may go up by ₹8, but only after Legislative Council polls is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Supreme Court refuses to stay proceedings against Nicobar project
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Supreme Court refuses to stay proceedings against Nicobar project is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## Two captive-bred Great Indian Bustards released into wild in Rajasthan under conservation efforts
+## Maharashtra Govt approves to increase scholarship allowance for SC and ST students
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Two captive-bred Great Indian Bustards released into wild in Rajasthan under conservation efforts is related to which of the following?  
+Q. Maharashtra Govt approves to increase scholarship allowance for SC and ST students is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Chief Secy should ask District Collectors to instruct officials to follow Union Govt.’s guidelines on protocols: MP
+## CM Samrat Choudhary directs officials to submit detailed report on flood damage in Bihar
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Chief Secy should ask District Collectors to instruct officials to follow Union Govt.’s guidelines on protocols: MP is related to which of the following?  
+Q. CM Samrat Choudhary directs officials to submit detailed report on flood damage in Bihar is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## T.N. allocated ₹812 crore for Annan Seer scheme
+## RPF, Nemili police seize 16 kg of ganja in separate cases; four persons held
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. T.N. allocated ₹812 crore for Annan Seer scheme is related to which of the following?  
+Q. RPF, Nemili police seize 16 kg of ganja in separate cases; four persons held is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## India-UAE joint military exercise begins in Uttarakhand; focus on mountain warfare
-**Subject:** Defence
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. India-UAE joint military exercise begins in Uttarakhand; focus on mountain warfare is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Defence
-
----
-## There should be no GST on MDR for UPI transactions: C. Rangarajan
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. There should be no GST on MDR for UPI transactions: C. Rangarajan is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## Case registered over FB post using Sudhakaran’s name, photo
+## Shree Cement plans ₹6,700 crore investments in A.P.: Minister
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Case registered over FB post using Sudhakaran’s name, photo is related to which of the following?  
+Q. Shree Cement plans ₹6,700 crore investments in A.P.: Minister is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Madurantakam, Dharapuram go to polls for second time in six months
+## Rahul calls SIR ‘treason’ as INDIA unites against ECI; MPs detained
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Madurantakam, Dharapuram go to polls for second time in six months is related to which of the following?  
+Q. Rahul calls SIR ‘treason’ as INDIA unites against ECI; MPs detained is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Ram Madhav takes part in meeting of BJP functionaries in Chennai
+## Not a single traitor will be spared: Rahul after his forcible removal from sit-in, detention
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Ram Madhav takes part in meeting of BJP functionaries in Chennai is related to which of the following?  
+Q. Not a single traitor will be spared: Rahul after his forcible removal from sit-in, detention is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Admiral Paparo meets top Indian military leadership at U.S. Envoy’s dinner in New Delhi
+## Minister lauds Sankar Foundation’s eye-care services
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Admiral Paparo meets top Indian military leadership at U.S. Envoy’s dinner in New Delhi is related to which of the following?  
+Q. Minister lauds Sankar Foundation’s eye-care services is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Rajaka community stages protest in Visakhapatnam seeking SC status
+## Minister inspects Bheemunipatnam-Narsipatnam road widening works
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Rajaka community stages protest in Visakhapatnam seeking SC status is related to which of the following?  
+Q. Minister inspects Bheemunipatnam-Narsipatnam road widening works is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## National Conference raises concern over ‘skewed reservation policy’ in J&K
+## ASHA workers seek ₹15,000 monthly remuneration
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. National Conference raises concern over ‘skewed reservation policy’ in J&K is related to which of the following?  
+Q. ASHA workers seek ₹15,000 monthly remuneration is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Karnataka to have dedicated single-window interface to promote international tech partnerships
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Karnataka to have dedicated single-window interface to promote international tech partnerships is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## MP youth delegation concludes Karnataka visit under Yuva Sangam Phase VII
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. MP youth delegation concludes Karnataka visit under Yuva Sangam Phase VII is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
