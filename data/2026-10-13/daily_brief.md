@@ -1,222 +1,222 @@
 # Daily Current Affairs – 2026-10-13
 
-## West Bengal bypolls proved that BJP does not draw support from just one community: CM Suvendu
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. West Bengal bypolls proved that BJP does not draw support from just one community: CM Suvendu is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## J&K Waqf Board pushes for uniform Friday sermons, ‘preachers’ committee to decide topics in advance’
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. J&K Waqf Board pushes for uniform Friday sermons, ‘preachers’ committee to decide topics in advance’ is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Govt. move to de-notify Jantar Mantar follows SC suggestion that protest sites need more space, open air
-**Subject:** Science & Tech
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Govt. move to de-notify Jantar Mantar follows SC suggestion that protest sites need more space, open air is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Science & Tech
-
----
-## Karnataka will continue with probe into efforts to illegally delete names of genuine voters, says Chief Minister
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Karnataka will continue with probe into efforts to illegally delete names of genuine voters, says Chief Minister is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Kannur Corporation introduces double-decker bus for sightseeing during Dasara
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Kannur Corporation introduces double-decker bus for sightseeing during Dasara is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Police to step up surveillance on airport stretch in Keralam’s Kochi
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Police to step up surveillance on airport stretch in Keralam’s Kochi is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Drought report: On southwest monsoon, drought in  Karnataka and Andhra Pradesh
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Drought report: On southwest monsoon, drought in  Karnataka and Andhra Pradesh is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Abdullapurmet Tahsildar, surveyor caught accepting ₹20 lakh bribe in Rangareddy district
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Abdullapurmet Tahsildar, surveyor caught accepting ₹20 lakh bribe in Rangareddy district is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## India poised to woo global investments amid US curbs: INMECC
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. India poised to woo global investments amid US curbs: INMECC is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## The Hindu Downtown announces MoC Kolu Kondattam 2026 contest
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. The Hindu Downtown announces MoC Kolu Kondattam 2026 contest is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Investigation reveals collection of ‘party fund’ during Anbil Mahesh Poyyamozhi’s tenure as School Education Minister, CCB tells Madras High Court
+## Goa Police defend detention of seven CJP members before High Court, cite history of protests without permission
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Investigation reveals collection of ‘party fund’ during Anbil Mahesh Poyyamozhi’s tenure as School Education Minister, CCB tells Madras High Court is related to which of the following?  
+Q. Goa Police defend detention of seven CJP members before High Court, cite history of protests without permission is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## Interim zone of influence around Pallikaranai marshland can be restricted to 36 survey numbers, State Wetlands Authority tells Madras High Court
+## CEC protests: Bombay High Court says won’t allow detentions that violate law
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Interim zone of influence around Pallikaranai marshland can be restricted to 36 survey numbers, State Wetlands Authority tells Madras High Court is related to which of the following?  
+Q. CEC protests: Bombay High Court says won’t allow detentions that violate law is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## Nominations open for 25th CavinKare Ability Awards 2027
+## Patna High Court acquits 13 accused in 1996 Jehanabad quadruple murder case
+**Subject:** Polity
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Patna High Court acquits 13 accused in 1996 Jehanabad quadruple murder case is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: Polity
+
+---
+## Former Madhya Pradesh CM Shivraj Singh Chouhan’s twin remarks fuel buzz of rift within State BJP unit
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Nominations open for 25th CavinKare Ability Awards 2027 is related to which of the following?  
+Q. Former Madhya Pradesh CM Shivraj Singh Chouhan’s twin remarks fuel buzz of rift within State BJP unit is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Karnataka gets its second woman Governor with appointment of Sudha Yadav
+## Over a dozen children dead after boat capsizes in Bihar’s Vaishali
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Karnataka gets its second woman Governor with appointment of Sudha Yadav is related to which of the following?  
+Q. Over a dozen children dead after boat capsizes in Bihar’s Vaishali is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Doval speaks to Iran NSA, discusses ‘latest developments’ after ships attacked in Hormuz
+## WRD begins removal of invasive plants from irrigation tanks along Palar River in Vellore
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Doval speaks to Iran NSA, discusses ‘latest developments’ after ships attacked in Hormuz is related to which of the following?  
+Q. WRD begins removal of invasive plants from irrigation tanks along Palar River in Vellore is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Don’t fully scrap tax officers’ arrest powers, Keralam tells 57th GST council meet
+## Muslims disproportionately flagged in Delhi SIR
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Don’t fully scrap tax officers’ arrest powers, Keralam tells 57th GST council meet is related to which of the following?  
+Q. Muslims disproportionately flagged in Delhi SIR is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## ‘One website for one local body’ implemented, says Keralam Minister K.M. Shaji
+## Bank staffer among three persons held for circulating counterfeit currencies in Vellore
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. ‘One website for one local body’ implemented, says Keralam Minister K.M. Shaji is related to which of the following?  
+Q. Bank staffer among three persons held for circulating counterfeit currencies in Vellore is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Vijayawada Mayor post declared ‘Unreserved General’ as per 2026 reservation allocation
+## Amit Shah slams SIR protests, says Congress will suffer its fourth consecutive defeat in 2029
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Vijayawada Mayor post declared ‘Unreserved General’ as per 2026 reservation allocation is related to which of the following?  
+Q. Amit Shah slams SIR protests, says Congress will suffer its fourth consecutive defeat in 2029 is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Congress Seva Dal seeks case against Bhaskar Rao over ‘fake news’ on Dhruv Rathee
+## Anger mounts in Punjab after anti-drug crusader killed in broad daylight
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Congress Seva Dal seeks case against Bhaskar Rao over ‘fake news’ on Dhruv Rathee is related to which of the following?  
+Q. Anger mounts in Punjab after anti-drug crusader killed in broad daylight is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Delhi protests against CEC: What the law says about preventive detention | Explained
+## Political resistance against vote chori will continue, not as parallel protests but as one movement:  Rahul Gandhi
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Delhi protests against CEC: What the law says about preventive detention | Explained is related to which of the following?  
+Q. Political resistance against vote chori will continue, not as parallel protests but as one movement:  Rahul Gandhi is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
+
+---
+## High-cost power to be purchased for 16 days to avoid unscheduled cuts, says Minister
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. High-cost power to be purchased for 16 days to avoid unscheduled cuts, says Minister is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Is Wetland Authority accountable to government or construction companies, asks Anbumani
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Is Wetland Authority accountable to government or construction companies, asks Anbumani is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## NCC founder and Padma Shri awardee A.V.S. Raju passes away
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. NCC founder and Padma Shri awardee A.V.S. Raju passes away is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Anti-drug crusader killed in broad daylight in Punjab’s Mansa, sparking outrage
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Anti-drug crusader killed in broad daylight in Punjab’s Mansa, sparking outrage is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Former Supreme Court judge calls for constitutional safeguards to ensure ECI’s independence
+**Subject:** Polity
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Former Supreme Court judge calls for constitutional safeguards to ensure ECI’s independence is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: Polity
+
+---
+## 5K Run held in Mysuru to sensitise youth on HIV
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. 5K Run held in Mysuru to sensitise youth on HIV is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Andhra University invites applications for self-support law courses
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Andhra University invites applications for self-support law courses is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Kauvery Hospital launches comprehensive suite of advanced ECMO and multi-organ life support services
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Kauvery Hospital launches comprehensive suite of advanced ECMO and multi-organ life support services is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Supreme Court asks Delhi governmente to seek inputs from IB on Hawara plea for transfer to Punjab jail
+**Subject:** Polity
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Supreme Court asks Delhi governmente to seek inputs from IB on Hawara plea for transfer to Punjab jail is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: Polity
 
 ---
