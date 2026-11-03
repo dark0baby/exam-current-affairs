@@ -1,221 +1,221 @@
 # Daily Current Affairs – 2026-11-03
 
-## Cyclone Murasu LIVE updates: Landfall continues in Andhra Pradesh, several districts on high alert amid heavy rainfall
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Cyclone Murasu LIVE updates: Landfall continues in Andhra Pradesh, several districts on high alert amid heavy rainfall is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Foreigners’ registration offices in all State Capitals by 2027: MHA
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Foreigners’ registration offices in all State Capitals by 2027: MHA is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Clean energy investments helped India soften West Asia crisis impact: PM Modi
+## Amit Shah compares INDIA bloc’s mock Parliament to Maoists’ Jantana Sarkar
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Clean energy investments helped India soften West Asia crisis impact: PM Modi is related to which of the following?  
+Q. Amit Shah compares INDIA bloc’s mock Parliament to Maoists’ Jantana Sarkar is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## NCP leaders express discontent in core committee meeting after talks with Amit Shah
+## Driver who ran over officer still absconding as M.P. Police expand search across State
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. NCP leaders express discontent in core committee meeting after talks with Amit Shah is related to which of the following?  
+Q. Driver who ran over officer still absconding as M.P. Police expand search across State is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Rahul Gandhi challenges PM Modi to open debate on ‘foreign help’
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Rahul Gandhi challenges PM Modi to open debate on ‘foreign help’ is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Despite court rulings, people continue to face difficulty in CID clearance: M.Y. Tarigami
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Despite court rulings, people continue to face difficulty in CID clearance: M.Y. Tarigami is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Petronet LNG reports 52.3% growth in net profits, in talks for availing undelivered cargoes
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Petronet LNG reports 52.3% growth in net profits, in talks for availing undelivered cargoes is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Maharashtra sets up drought mitigation panel, approves ₹291.91 crore relief for flood-hit farmers
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Maharashtra sets up drought mitigation panel, approves ₹291.91 crore relief for flood-hit farmers is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Rahul Gandhi acting as a ‘toolkit’ for foreign forces says Nitin Nabin
+## When will 14 State-run universities get Vice-Chancellors and Syndicates, Madras High Court asks T.N. government
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Rahul Gandhi acting as a ‘toolkit’ for foreign forces says Nitin Nabin is related to which of the following?  
+Q. When will 14 State-run universities get Vice-Chancellors and Syndicates, Madras High Court asks T.N. government is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## M.P. Police inspector mowed down by truck carrying illicit liquor in Dewas; racket supplying liquor to Gujarat uncovered
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. M.P. Police inspector mowed down by truck carrying illicit liquor in Dewas; racket supplying liquor to Gujarat uncovered is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Services of 29 contract staff at Ernakulam Government Medical College terminated
+## Iranian woman moves Madras High Court wanting to know procedure for obtaining X-Miscellaneous visa
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Services of 29 contract staff at Ernakulam Government Medical College terminated is related to which of the following?  
+Q. Iranian woman moves Madras High Court wanting to know procedure for obtaining X-Miscellaneous visa is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## Craft Council of A.P. receives praise for providing platform for weavers, artisans
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Craft Council of A.P. receives praise for providing platform for weavers, artisans is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Tamil Nadu can lead in expenditure reform
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Tamil Nadu can lead in expenditure reform is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Palnadu on high alert as Cyclone Murasu to bring heavy rain
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Palnadu on high alert as Cyclone Murasu to bring heavy rain is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## VMC Commissioner calls for transparent vote counting process
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. VMC Commissioner calls for transparent vote counting process is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Lok Sabha Speaker Birla calls dissent essential to democracy
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Lok Sabha Speaker Birla calls dissent essential to democracy is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## VACB seizes files on ₹12-cr Kannur district panchayat contracts
+## Ladakh administration asks activist Sonam Wangchuk’s wife to stop ‘unauthorised activities’ at their Leh school
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. VACB seizes files on ₹12-cr Kannur district panchayat contracts is related to which of the following?  
+Q. Ladakh administration asks activist Sonam Wangchuk’s wife to stop ‘unauthorised activities’ at their Leh school is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## Police must serve the State, which endures, and not the party in government, which changes: Madras High Court
+## SIT report says charges against KSU activists in Veena George case cannot be sustained
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Police must serve the State, which endures, and not the party in government, which changes: Madras High Court is related to which of the following?  
+Q. SIT report says charges against KSU activists in Veena George case cannot be sustained is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## Anbumani opposes proposed ₹5 hike in Aavin milk prices
+## Vigilance wing pulls up Kochi Metro Rail Limited over lapses in auctioning commercial spaces
+**Subject:** Science & Tech
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Vigilance wing pulls up Kochi Metro Rail Limited over lapses in auctioning commercial spaces is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: Science & Tech
+
+---
+## Kochi Corporation Council passes SIR resolution amid protests; BJP councillors walk out
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Anbumani opposes proposed ₹5 hike in Aavin milk prices is related to which of the following?  
+Q. Kochi Corporation Council passes SIR resolution amid protests; BJP councillors walk out is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Air quality of Delhi slips to ‘very poor’ for first time this winter, Stage 2 of GRAP invoked
+## Kerala Sasthra Sahithya Parishad seeks reconstitution of government’s health task force
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Air quality of Delhi slips to ‘very poor’ for first time this winter, Stage 2 of GRAP invoked is related to which of the following?  
+Q. Kerala Sasthra Sahithya Parishad seeks reconstitution of government’s health task force is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## A song or two for the reconstruction of Tagore Centenary Hall in Kozhikode
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. A song or two for the reconstruction of Tagore Centenary Hall in Kozhikode is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Staggering white-collar success of Bengaluru has left a non-urban world behind, says Bagchi
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Staggering white-collar success of Bengaluru has left a non-urban world behind, says Bagchi is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## State’s responsibility is to equip people for emerging opportunities, not just for current jobs: Sharanprakash Patil
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. State’s responsibility is to equip people for emerging opportunities, not just for current jobs: Sharanprakash Patil is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Kochi Corporation clears 30 projects worth ₹1,500 crore for Urban Challenge Fund
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Kochi Corporation clears 30 projects worth ₹1,500 crore for Urban Challenge Fund is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Local body polls in Andhra: TDP breaches YSRCP’s fortress of Pulivendula after four decades
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Local body polls in Andhra: TDP breaches YSRCP’s fortress of Pulivendula after four decades is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## DVAC conducts drone survey of irrigation tank in illegal sand mining charge against DMK’s E.V. Velu
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. DVAC conducts drone survey of irrigation tank in illegal sand mining charge against DMK’s E.V. Velu is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Probe launched into derailment of goods wagons at Jolarpet Railway Station
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Probe launched into derailment of goods wagons at Jolarpet Railway Station is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Over 50% of startups in Tamil Nadu are led by women, says StartupTN Chairman
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Over 50% of startups in Tamil Nadu are led by women, says StartupTN Chairman is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## TNCCF cancels onion orders, cites poor quality
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. TNCCF cancels onion orders, cites poor quality is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Tamil Nadu government releases three-year BESS policy
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Tamil Nadu government releases three-year BESS policy is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Assam to seek CBI probe to find flood cause; sack government employee if involved in polygamy: CM Himanta
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Assam to seek CBI probe to find flood cause; sack government employee if involved in polygamy: CM Himanta is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
