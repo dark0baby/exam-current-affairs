@@ -1,10 +1,10 @@
 [
   {
-    "date": "2026-11-08",
-    "topic": "Fire engulfs Jammu\u2019s Nehru Market, guts around 12 shops",
+    "date": "2026-11-10",
+    "topic": "Outcry as J&K Bank implements reservation policy pushed by ex-chairman and VHP trustee R.K. Chhibber",
     "source": "The Hindu",
     "mcq": {
-      "question": "Fire engulfs Jammu\u2019s Nehru Market, guts around 12 shops is related to which of the following?",
+      "question": "Outcry as J&K Bank implements reservation policy pushed by ex-chairman and VHP trustee R.K. Chhibber is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -16,11 +16,11 @@
     }
   },
   {
-    "date": "2026-11-08",
-    "topic": "Air pollution over 50 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali",
+    "date": "2026-11-10",
+    "topic": "ED attaches properties in Kashmir in \u2018misuse\u2019 of PM Employment Generation Programme scheme case",
     "source": "The Hindu",
     "mcq": {
-      "question": "Air pollution over 50 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali is related to which of the following?",
+      "question": "ED attaches properties in Kashmir in \u2018misuse\u2019 of PM Employment Generation Programme scheme case is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -32,11 +32,11 @@
     }
   },
   {
-    "date": "2026-11-08",
-    "topic": "Revanth celebrates Deepavali with Indiramma house beneficiary",
+    "date": "2026-11-10",
+    "topic": "Postpone panchayat, municipal elections to April-May next year: Ladakh group",
     "source": "The Hindu",
     "mcq": {
-      "question": "Revanth celebrates Deepavali with Indiramma house beneficiary is related to which of the following?",
+      "question": "Postpone panchayat, municipal elections to April-May next year: Ladakh group is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -48,11 +48,11 @@
     }
   },
   {
-    "date": "2026-11-08",
-    "topic": "Rajajinagar murders: Two more bodies recovered near Chamundi hills in Mysuru",
+    "date": "2026-11-10",
+    "topic": "Six of family killed in fire at home above grocery store in Maharashtra",
     "source": "The Hindu",
     "mcq": {
-      "question": "Rajajinagar murders: Two more bodies recovered near Chamundi hills in Mysuru is related to which of the following?",
+      "question": "Six of family killed in fire at home above grocery store in Maharashtra is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -64,11 +64,235 @@
     }
   },
   {
-    "date": "2026-11-08",
-    "topic": "UK Hindu family takes legal action after school objects to boy wearing tilak",
+    "date": "2026-11-10",
+    "topic": "Rights panel seeks report from LSGD on linking Chilavannur Bund Road with Vyttila-Aroor bypass",
     "source": "The Hindu",
     "mcq": {
-      "question": "UK Hindu family takes legal action after school objects to boy wearing tilak is related to which of the following?",
+      "question": "Rights panel seeks report from LSGD on linking Chilavannur Bund Road with Vyttila-Aroor bypass is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "KSRTC sees sharp rise in ticket bookings during Deepavali, daily reservations cross 62,000",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "KSRTC sees sharp rise in ticket bookings during Deepavali, daily reservations cross 62,000 is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "Policeman beaten to death in Theni over Deepavali celebration dispute",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Policeman beaten to death in Theni over Deepavali celebration dispute is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "Building over Srinagar\u2019s future",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Building over Srinagar\u2019s future is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "Fisherfolk seek higher compensation for men who died in Murasu cyclone",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Fisherfolk seek higher compensation for men who died in Murasu cyclone is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "Wayanad conservationist N. Badusha wins environmental award",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Wayanad conservationist N. Badusha wins environmental award is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "At peak of air pollution on Deepavali, data goes missing at several government monitoring stations in Delhi",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "At peak of air pollution on Deepavali, data goes missing at several government monitoring stations in Delhi is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "Man kills 4-year-old to sell his organs after watching video on making money quickly",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Man kills 4-year-old to sell his organs after watching video on making money quickly is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "Raptadu chainsaw attack victim\u2019s condition improving, says A.P. Health Minister",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Raptadu chainsaw attack victim\u2019s condition improving, says A.P. Health Minister is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "Disha higher education exhibition draws large crowds in Malappuram",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Disha higher education exhibition draws large crowds in Malappuram is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "Children make up for half of Deepavali eye-injury cases at Hyderabad hospital",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Children make up for half of Deepavali eye-injury cases at Hyderabad hospital is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "Why Manaveeyam Veedhi is at the centre of a political battle between BJP, CPI(M) in Keralam capital",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Why Manaveeyam Veedhi is at the centre of a political battle between BJP, CPI(M) in Keralam capital is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "Four acres of encroached land reclaimed in Ballari; task force clears 150 acres",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Four acres of encroached land reclaimed in Ballari; task force clears 150 acres is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "Keralam Excise dept. bans issuance of new liquor licences until promulgation of Keralam  govt.\u2019s liquor policy",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Keralam Excise dept. bans issuance of new liquor licences until promulgation of Keralam  govt.\u2019s liquor policy is related to which of the following?",
+      "options": [
+        "Economy",
+        "Polity",
+        "Science & Tech",
+        "Defence"
+      ],
+      "answer": "General Current Affairs",
+      "subject": "General Current Affairs"
+    }
+  },
+  {
+    "date": "2026-11-10",
+    "topic": "Bengaluru to host first meet of Commonwealth Women Parliamentarians\u2018\u00a0regional unit",
+    "source": "The Hindu",
+    "mcq": {
+      "question": "Bengaluru to host first meet of Commonwealth Women Parliamentarians\u2018\u00a0regional unit is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -80,11 +304,11 @@
     }
   },
   {
-    "date": "2026-11-08",
-    "topic": "Jean Dr\u00e8ze urges T.N. govt. to take strict action amid report of \u2018fake book\u2019 at Kalaignar Centenary Library",
+    "date": "2026-11-10",
+    "topic": "Telangana High Court sentences Ranga Reddy Collector to six months\u2019 imprisonment for wilful disobedience in a contempt case",
     "source": "The Hindu",
     "mcq": {
-      "question": "Jean Dr\u00e8ze urges T.N. govt. to take strict action amid report of \u2018fake book\u2019 at Kalaignar Centenary Library is related to which of the following?",
+      "question": "Telangana High Court sentences Ranga Reddy Collector to six months\u2019 imprisonment for wilful disobedience in a contempt case is related to which of the following?",
       "options": [
         "Economy",
         "Polity",
@@ -93,230 +317,6 @@
       ],
       "answer": "Polity",
       "subject": "Polity"
-    }
-  },
-  {
-    "date": "2026-11-08",
-    "topic": "Minister Agnimitra Paul says rose water to be used for mist spraying in Kolkata; environmentalist slams move",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Minister Agnimitra Paul says rose water to be used for mist spraying in Kolkata; environmentalist slams move is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-11-08",
-    "topic": "NGT issues notice to Tirunelveli Collector over threats to Tamirabharani fish species",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "NGT issues notice to Tirunelveli Collector over threats to Tamirabharani fish species is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-11-08",
-    "topic": "\u2018Dimagi Naxals\u2019 instigating people against Constitution: PM Modi as Maoists eliminated",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "\u2018Dimagi Naxals\u2019 instigating people against Constitution: PM Modi as Maoists eliminated is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-11-08",
-    "topic": "Revanth sets target of making one crore women millionaires by 2034",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Revanth sets target of making one crore women millionaires by 2034 is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-11-08",
-    "topic": "One child dead, 269 treated for burn injuries in T.N. during Deepavali",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "One child dead, 269 treated for burn injuries in T.N. during Deepavali is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-11-08",
-    "topic": "BJP, JD(S) leaders cannot tolerate guarantee schemes reaching all beneficiaries: Karnataka CM Shivakumar",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "BJP, JD(S) leaders cannot tolerate guarantee schemes reaching all beneficiaries: Karnataka CM Shivakumar is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-11-08",
-    "topic": "A devotee dies while climbing up Deviramma Betta in Chikkamagaluru",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "A devotee dies while climbing up Deviramma Betta in Chikkamagaluru is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-11-08",
-    "topic": "PM Modi desperate, 'jhola-picking-up time' fast approaching: Congress",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "PM Modi desperate, 'jhola-picking-up time' fast approaching: Congress is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-11-08",
-    "topic": "Fresh sexual harassment complaint against \u2018Gem Granites\u2019 Veeramani",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Fresh sexual harassment complaint against \u2018Gem Granites\u2019 Veeramani is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-11-08",
-    "topic": "'Notebandi' devastated economy, 'votebandi' destroying polity: Congress slams PM Modi",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "'Notebandi' devastated economy, 'votebandi' destroying polity: Congress slams PM Modi is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "Economy",
-      "subject": "Economy"
-    }
-  },
-  {
-    "date": "2026-11-08",
-    "topic": "Punjab anti-drug activist Jhota cremated in his native place Mansa",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Punjab anti-drug activist Jhota cremated in his native place Mansa is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "Polity",
-      "subject": "Polity"
-    }
-  },
-  {
-    "date": "2026-11-08",
-    "topic": "No concrete proof yet from Indonesia for claim over rescued orangutans: Odisha Minister",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "No concrete proof yet from Indonesia for claim over rescued orangutans: Odisha Minister is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-11-08",
-    "topic": "Banner seeking info on four wanted terrorists surfaces in Srinagar's Lal Chowk",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "Banner seeking info on four wanted terrorists surfaces in Srinagar's Lal Chowk is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
-    }
-  },
-  {
-    "date": "2026-11-08",
-    "topic": "J&K: 4 police personnel, including SHO, injured as bus rams police vehicle in Ramban",
-    "source": "The Hindu",
-    "mcq": {
-      "question": "J&K: 4 police personnel, including SHO, injured as bus rams police vehicle in Ramban is related to which of the following?",
-      "options": [
-        "Economy",
-        "Polity",
-        "Science & Tech",
-        "Defence"
-      ],
-      "answer": "General Current Affairs",
-      "subject": "General Current Affairs"
     }
   }
 ]
