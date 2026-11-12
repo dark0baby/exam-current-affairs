@@ -1,221 +1,221 @@
 # Daily Current Affairs – 2026-11-12
 
-## Thousands struggling without water after a major leak in a pipeline in Kolkata’s Tala area
+## Sukhbir Badal likely to meet Amit Shah on November 13, SAD-BJP alliance may be announced this month
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Thousands struggling without water after a major leak in a pipeline in Kolkata’s Tala area is related to which of the following?  
+Q. Sukhbir Badal likely to meet Amit Shah on November 13, SAD-BJP alliance may be announced this month is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Haryana Congress to launch campaign to protect people’s voting rights, says Sanjay Dutt
+## Bomb threat emails target BMC, Pune civic body, PNB branches; searches find nothing suspicious
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Haryana Congress to launch campaign to protect people’s voting rights, says Sanjay Dutt is related to which of the following?  
+Q. Bomb threat emails target BMC, Pune civic body, PNB branches; searches find nothing suspicious is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Woman found dead at locked flat in Baranagar; police suspect sexual assault
+## Karnataka to write to Prime Minister asking for inclusion of enhanced quota in Ninth Schedule
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Woman found dead at locked flat in Baranagar; police suspect sexual assault is related to which of the following?  
+Q. Karnataka to write to Prime Minister asking for inclusion of enhanced quota in Ninth Schedule is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Punjab polls: Congress begins campaign; BJP takes a dig
+## Private passenger ship service between Beypore and Lakshadweep soon
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Punjab polls: Congress begins campaign; BJP takes a dig is related to which of the following?  
+Q. Private passenger ship service between Beypore and Lakshadweep soon is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Kerala High Court orders government to ready adequate medicines, vehicles at mental health centres by November 24
+## Restrictions on me arbitrary, vague: Sonam Wangchuk
+**Subject:** Economy
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Restrictions on me arbitrary, vague: Sonam Wangchuk is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: Economy
+
+---
+## CPI(M) leader P. Rajeeve flays police action against protesters in Keralam’s Thiruvananthapuram
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Kerala High Court orders government to ready adequate medicines, vehicles at mental health centres by November 24 is related to which of the following?  
+Q. CPI(M) leader P. Rajeeve flays police action against protesters in Keralam’s Thiruvananthapuram is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## Great Trigonometrical Survey stations in Tamil Nadu documented, published in five volumes
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Great Trigonometrical Survey stations in Tamil Nadu documented, published in five volumes is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Daughter of Cheranalloor accident victim files review petition before Kerala High Court
+## SFI activists booked for protesting against Minister at Maharaja’s College in Keralam’s Kochi granted anticipatory bail
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Daughter of Cheranalloor accident victim files review petition before Kerala High Court is related to which of the following?  
+Q. SFI activists booked for protesting against Minister at Maharaja’s College in Keralam’s Kochi granted anticipatory bail is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## Consultations with Governor ongoing to arrive at agreement over V-C appointment: Higher Education Minister
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Consultations with Governor ongoing to arrive at agreement over V-C appointment: Higher Education Minister is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Cusat Syndicate member approaches Kerala High Court against employees’ strike
+## State to file fresh affidavit in Kerala High Court on bar licences: Excise Minister
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Cusat Syndicate member approaches Kerala High Court against employees’ strike is related to which of the following?  
+Q. State to file fresh affidavit in Kerala High Court on bar licences: Excise Minister is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## MYL rally in Keralam’s Kochi: contempt of court plea filed before High Court
+## Brazil’s WEG chooses Dharmapuri for ₹2,000-crore global manufacturing facility
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. MYL rally in Keralam’s Kochi: contempt of court plea filed before High Court is related to which of the following?  
+Q. Brazil’s WEG chooses Dharmapuri for ₹2,000-crore global manufacturing facility is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## Madras High Court reserves orders in cases challenging NGT’s construction ban on 1 km radius around Pallikaranai marshland
+## Khammam MP proposes two works worth  ₹50 lakh under MPLADS to promote eco-tourism at Srinivasagiri
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Khammam MP proposes two works worth  ₹50 lakh under MPLADS to promote eco-tourism at Srinivasagiri is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Karnataka can never build a dam at Mekedatu, says Minister
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Karnataka can never build a dam at Mekedatu, says Minister is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## DRDL Director highlights importance of indigenous research
+**Subject:** Defence
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. DRDL Director highlights importance of indigenous research is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: Defence
+
+---
+## Medical examination of recaptured prisoners, allegedly thrashed by Theni jail warders, confirms injuries
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Medical examination of recaptured prisoners, allegedly thrashed by Theni jail warders, confirms injuries is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Vizag CII Summit: ReNew to invest ₹80,000 crore in green data centre, solar manufacturing in Andhra Pradesh
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Madras High Court reserves orders in cases challenging NGT’s construction ban on 1 km radius around Pallikaranai marshland is related to which of the following?  
+Q. Vizag CII Summit: ReNew to invest ₹80,000 crore in green data centre, solar manufacturing in Andhra Pradesh is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## Anbil Mahesh Poyyamozhi moves Madras High Court seeking bail; says he is suffering from acute-on-chronic pancreatitis
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Anbil Mahesh Poyyamozhi moves Madras High Court seeking bail; says he is suffering from acute-on-chronic pancreatitis is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## Madras High Court sets aside one-month simple imprisonment imposed on IAS officer Anshul Mishra in contempt proceedings
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Madras High Court sets aside one-month simple imprisonment imposed on IAS officer Anshul Mishra in contempt proceedings is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## Swachh Survekshan: Guntur wins ‘Super Swachh League’ award
+## India records 38% drop in TB mortality since 2015: WHO report
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Swachh Survekshan: Guntur wins ‘Super Swachh League’ award is related to which of the following?  
+Q. India records 38% drop in TB mortality since 2015: WHO report is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Recent repairs on OMR come undone
+## India will remain a trusted partner for global investors, assures Union Minister Piyush Goyal
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Recent repairs on OMR come undone is related to which of the following?  
+Q. India will remain a trusted partner for global investors, assures Union Minister Piyush Goyal is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## CII Partnership Summit: CM Naidu seeks WIPO’s support to boost innovation ecosystem in A.P.
+## When the village becomes an art gallery: 26 homes open their doors to creativity
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. CII Partnership Summit: CM Naidu seeks WIPO’s support to boost innovation ecosystem in A.P. is related to which of the following?  
+Q. When the village becomes an art gallery: 26 homes open their doors to creativity is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## CII Partnership Summit: Andhra CM Naidu makes investment pitch before UAE, Japanese delegations
+## Ladakh civil society group begins protest over Home Ministry failure to hold talks
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. CII Partnership Summit: Andhra CM Naidu makes investment pitch before UAE, Japanese delegations is related to which of the following?  
+Q. Ladakh civil society group begins protest over Home Ministry failure to hold talks is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Christian leaders seek action in Meerpet case
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Christian leaders seek action in Meerpet case is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## APSCHE launches digital portal for accessible, self-paced learning
+## India-EU FTA will be a game changer, says German envoy
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. APSCHE launches digital portal for accessible, self-paced learning is related to which of the following?  
+Q. India-EU FTA will be a game changer, says German envoy is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Bride-to-be, cousin killed as speeding lorry runs over scooter near Deepanjali Metro station
+## TIMS hospitals will be fully operational by June 2, says Chief Minister
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Bride-to-be, cousin killed as speeding lorry runs over scooter near Deepanjali Metro station is related to which of the following?  
+Q. TIMS hospitals will be fully operational by June 2, says Chief Minister is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
