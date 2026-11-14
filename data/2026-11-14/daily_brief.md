@@ -1,221 +1,221 @@
 # Daily Current Affairs – 2026-11-14
 
-## After CBI, ED arrests Mahadev betting app scam accused
+## In Jharkhand, even jails are not safe: Babulal Marandi
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. After CBI, ED arrests Mahadev betting app scam accused is related to which of the following?  
+Q. In Jharkhand, even jails are not safe: Babulal Marandi is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## File FIR against those who tarnish party’s image says Bengal BJP chief
+## Mumbai police announce traffic diversion ahead of Britain’s Prince William visit
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. File FIR against those who tarnish party’s image says Bengal BJP chief is related to which of the following?  
+Q. Mumbai police announce traffic diversion ahead of Britain’s Prince William visit is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## NHRC seeks Education Ministry’s response over alleged neglect of Veer Baal Diwas in schools
+## 4.5 magnitude earthquake tremors felt in Maharashtra’s Jalgaon
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. NHRC seeks Education Ministry’s response over alleged neglect of Veer Baal Diwas in schools is related to which of the following?  
+Q. 4.5 magnitude earthquake tremors felt in Maharashtra’s Jalgaon is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## ‘John Doe’ movie review: Madhumita finds her footing with a neat, effective thriller
+## Man held for conducting ‘reconnaissance’ of sensitive locations in Mumbai
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. ‘John Doe’ movie review: Madhumita finds her footing with a neat, effective thriller is related to which of the following?  
+Q. Man held for conducting ‘reconnaissance’ of sensitive locations in Mumbai is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Comply with new prices of 137 anti-cancer drugs or face action, says regulator
+## Six-month traffic disruption ahead as Ranigunj railway underpass work to begin in Hyderabad
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Six-month traffic disruption ahead as Ranigunj railway underpass work to begin in Hyderabad is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Telangana Greyhounds get new shooting range at Rajendranagar
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Telangana Greyhounds get new shooting range at Rajendranagar is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Four arrested for illegal sand extraction in Madgul
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Comply with new prices of 137 anti-cancer drugs or face action, says regulator is related to which of the following?  
+Q. Four arrested for illegal sand extraction in Madgul is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## Andhra Pradesh secures ₹9.88 lakh crore investment commitments at CII Partnership Summit in Vizag
+## Police intensify investigation in sexual harassment case against TVK functionary
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Andhra Pradesh secures ₹9.88 lakh crore investment commitments at CII Partnership Summit in Vizag is related to which of the following?  
+Q. Police intensify investigation in sexual harassment case against TVK functionary is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Manipur probe panel gets sixth extension; no sign of report yet
+## BJP to stage protest against TVK’s Kallakurichi MLA on Nov. 18
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Manipur probe panel gets sixth extension; no sign of report yet is related to which of the following?  
+Q. BJP to stage protest against TVK’s Kallakurichi MLA on Nov. 18 is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Four-day Chhath festival begins in Bihar with Nahay Khay
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Four-day Chhath festival begins in Bihar with Nahay Khay is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## To strengthen the Supreme Court, divide it
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. To strengthen the Supreme Court, divide it is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## BIM, Texas university to offer course on AI in Business from next year
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. BIM, Texas university to offer course on AI in Business from next year is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Rajya Sabha panel visits ISRO, HAL facilities in Bengaluru
-**Subject:** Science & Tech
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Rajya Sabha panel visits ISRO, HAL facilities in Bengaluru is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Science & Tech
-
----
-## Two men die as van rams tree in Tirupattur
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Two men die as van rams tree in Tirupattur is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Speaker’s last-minute withdrawal triggers protest at unveiling of Kanayi’s sculpture in Kasaragod
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Speaker’s last-minute withdrawal triggers protest at unveiling of Kanayi’s sculpture in Kasaragod is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Bengaluru Pink Line begins operations today; BMRCL announces timings as commuters seek faster completion of underground section
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Bengaluru Pink Line begins operations today; BMRCL announces timings as commuters seek faster completion of underground section is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Madras High Court refuses to reject election plea against Udhayanidhi’s win from Chepauk-Thiruvallikeni
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Madras High Court refuses to reject election plea against Udhayanidhi’s win from Chepauk-Thiruvallikeni is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## Take steps to control inflation, Anbumani Ramadoss tells State govt.
+## Take necessary steps to control inflation, Dhinakaran tells T.N. govt.
 **Subject:** Economy
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Take steps to control inflation, Anbumani Ramadoss tells State govt. is related to which of the following?  
+Q. Take necessary steps to control inflation, Dhinakaran tells T.N. govt. is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Economy
 
 ---
-## Microsoft outage hits businesses worldwide; India feels impact
+## Driver from Theni found dead while in custody at Chekkanoorani police station in Madurai
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Driver from Theni found dead while in custody at Chekkanoorani police station in Madurai is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Investment promotion panel holds first meeting, targets $72 billion in exports
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Microsoft outage hits businesses worldwide; India feels impact is related to which of the following?  
+Q. Investment promotion panel holds first meeting, targets $72 billion in exports is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## Modi comes to aid of elderly woman who felt unwell at Mysuru event
+## AIADMK to protest seeking action against Deputy Speaker in Thuraiyur ‘assault’ incident
+**Subject:** Polity
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. AIADMK to protest seeking action against Deputy Speaker in Thuraiyur ‘assault’ incident is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: Polity
+
+---
+## NCP merger talks ended with death of Ajit Pawar, says Supriya Sule
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Modi comes to aid of elderly woman who felt unwell at Mysuru event is related to which of the following?  
+Q. NCP merger talks ended with death of Ajit Pawar, says Supriya Sule is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Low pressure area forms over Bay of Bengal, likely to intensify into cyclonic storm around November 16
+## Rahul Gandhi promises social security, insurance cover for gig workers in Telangana
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Low pressure area forms over Bay of Bengal, likely to intensify into cyclonic storm around November 16 is related to which of the following?  
+Q. Rahul Gandhi promises social security, insurance cover for gig workers in Telangana is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## ICFAI honours undergraduate toppers at 16th graduation ceremony
+## CM promises govt. support to India’s newest public health university coming up in Hyderabad
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. ICFAI honours undergraduate toppers at 16th graduation ceremony is related to which of the following?  
+Q. CM promises govt. support to India’s newest public health university coming up in Hyderabad is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## SCoR, Central Bank of India ink pact to extend welfare facilities for railway staff
+**Subject:** Polity
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. SCoR, Central Bank of India ink pact to extend welfare facilities for railway staff is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: Polity
+
+---
+## Police aspirant found dead, boyfriend and relatives arrested in Mahabubabad
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Police aspirant found dead, boyfriend and relatives arrested in Mahabubabad is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Opposition parties, civil rights groups come together to save voters’ rights in West Bengal
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Opposition parties, civil rights groups come together to save voters’ rights in West Bengal is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Keralam Speaker’s absence from endosulfan victims’ memorial event triggers row
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Keralam Speaker’s absence from endosulfan victims’ memorial event triggers row is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
