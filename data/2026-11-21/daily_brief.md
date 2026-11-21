@@ -1,221 +1,221 @@
 # Daily Current Affairs – 2026-11-21
 
-## Digital planetariums, education centres will be established in all divisions: Bihar Minister
+## TDP defends venue choice for Vijayawada Mayor swearing-in, slams YSRCP for making it an issue
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Digital planetariums, education centres will be established in all divisions: Bihar Minister is related to which of the following?  
+Q. TDP defends venue choice for Vijayawada Mayor swearing-in, slams YSRCP for making it an issue is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## BJP’s invitation to Pakistan’s Minister vindicates Abdullah’s stance: J&K Deputy Chief Minister
+## Tenure focused on institutional reform-oriented approach, says outgoing UPPSC Chairman Sanjay Shrinet
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. BJP’s invitation to Pakistan’s Minister vindicates Abdullah’s stance: J&K Deputy Chief Minister is related to which of the following?  
+Q. Tenure focused on institutional reform-oriented approach, says outgoing UPPSC Chairman Sanjay Shrinet is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Transgender persons to be roped in for tax collection in West Bengal
+## West Bengal government to appoint coordinators for all 209 wards in Kolkata: Union Minister Sukanta Majumdar
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Transgender persons to be roped in for tax collection in West Bengal is related to which of the following?  
+Q. West Bengal government to appoint coordinators for all 209 wards in Kolkata: Union Minister Sukanta Majumdar is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Chandel district official issues advisory after spurious liquor kills 11 in Manipur
+## Municipal staff transfers to move online by Tamil Nadu govt., with vacancies displayed on portal
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Chandel district official issues advisory after spurious liquor kills 11 in Manipur is related to which of the following?  
+Q. Municipal staff transfers to move online by Tamil Nadu govt., with vacancies displayed on portal is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## West Bengal CEO office postpones SSR due to unavoidable circumstances
+## BJP, Hindu Munnani, RSS trying to create communal tension in T.N., says Tagore
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. West Bengal CEO office postpones SSR due to unavoidable circumstances is related to which of the following?  
+Q. BJP, Hindu Munnani, RSS trying to create communal tension in T.N., says Tagore is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Patna High Court quashes dismissal of teachers and staff of Sanskrit Colleges
+## Eastern Ghats on a slippery slope
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Eastern Ghats on a slippery slope is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## BJP appoints Yuzvendra Chahal as special invitee to OBC Morcha executive committee
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. BJP appoints Yuzvendra Chahal as special invitee to OBC Morcha executive committee is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Deepathoon row: State govt. consulting experts on filing review petition, says Minister
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Deepathoon row: State govt. consulting experts on filing review petition, says Minister is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Vice President urges graduates to embrace lifelong learning, contribute to nation-building
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Vice President urges graduates to embrace lifelong learning, contribute to nation-building is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Three cyclones in three weeks: What’s happening in the Bay of Bengal? | Explained
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Three cyclones in three weeks: What’s happening in the Bay of Bengal? | Explained is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Pranab Doley | Confronting the State
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Pranab Doley | Confronting the State is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## MHA sanctions more Central forces for Tripura municipal elections
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. MHA sanctions more Central forces for Tripura municipal elections is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Kashmir’s famed saffron fields have been used as dumping grounds for three years: Mehbooba Mufti
+**Subject:** General Current Affairs
+**Why in News:** Key update from The Hindu  
+**Source:** The Hindu
+
+**MCQ:**  
+Q. Kashmir’s famed saffron fields have been used as dumping grounds for three years: Mehbooba Mufti is related to which of the following?  
+A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
+Ans: General Current Affairs
+
+---
+## Adopt best practices from ‘Maha Kumbh Meal’ for conduct of Godavari Pushkaralu, CM tells officials
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Patna High Court quashes dismissal of teachers and staff of Sanskrit Colleges is related to which of the following?  
+Q. Adopt best practices from ‘Maha Kumbh Meal’ for conduct of Godavari Pushkaralu, CM tells officials is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## Infra push and low base effect pushes core sector growth to series-high of 10.9% in October 2026
+## Reverse policies, stop tax sops for rich: Trade unions, farm outfits to PM Modi
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Infra push and low base effect pushes core sector growth to series-high of 10.9% in October 2026 is related to which of the following?  
+Q. Reverse policies, stop tax sops for rich: Trade unions, farm outfits to PM Modi is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Lawyer seeks to probate will left behind by former DGP’s wife: Madras High Court orders CB-CID probe after suspecting its genuineness
+## Fire in toys factory, no casualties reported
 **Subject:** Polity
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Lawyer seeks to probate will left behind by former DGP’s wife: Madras High Court orders CB-CID probe after suspecting its genuineness is related to which of the following?  
+Q. Fire in toys factory, no casualties reported is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: Polity
 
 ---
-## Comments by Abhishek Banerjee painful but not contemptuous: Calcutta High Court
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Comments by Abhishek Banerjee painful but not contemptuous: Calcutta High Court is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## KRRS demands action against sugar factory
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. KRRS demands action against sugar factory is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## State candidates should get better opportunities in medical colleges, Chief Minister tells high-powered task force
+## Ladakh records 70% turnout in first panchayat polls since Union Territory formation
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. State candidates should get better opportunities in medical colleges, Chief Minister tells high-powered task force is related to which of the following?  
+Q. Ladakh records 70% turnout in first panchayat polls since Union Territory formation is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## State govt. should clarify on dismissal of Guidance employees: Anbumani
+## Shared civilisational knowledge should be harnessed by nations: Shekhawat
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. State govt. should clarify on dismissal of Guidance employees: Anbumani is related to which of the following?  
+Q. Shared civilisational knowledge should be harnessed by nations: Shekhawat is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## Safeguards against abuse of power essential to preserve critical institutions like ECI: S.Y. Quraishi
+## Odisha government orders inquiry into foreign visits by former CM Naveen Patnaik, aide Pandian
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Safeguards against abuse of power essential to preserve critical institutions like ECI: S.Y. Quraishi is related to which of the following?  
+Q. Odisha government orders inquiry into foreign visits by former CM Naveen Patnaik, aide Pandian is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
 ---
-## CREDAI Chennai to move Supreme Court against 1km construction restriction around Pallikaranai marshland
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. CREDAI Chennai to move Supreme Court against 1km construction restriction around Pallikaranai marshland is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## Chairpersons elected unopposed to Zilla Parishads in three districts
+## Break free of limiting beliefs to achieve new heights: PM Modi at IIT Kharagpur
 **Subject:** General Current Affairs
 **Why in News:** Key update from The Hindu  
 **Source:** The Hindu
 
 **MCQ:**  
-Q. Chairpersons elected unopposed to Zilla Parishads in three districts is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Cyclone ‘Akvan’ crosses Odisha coast, no damage reported
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Cyclone ‘Akvan’ crosses Odisha coast, no damage reported is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## CM promises action over alleged attacks, police atrocities against YC workers
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. CM promises action over alleged attacks, police atrocities against YC workers is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## IUML to appeal against verdict in Shukkoor murder case
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. IUML to appeal against verdict in Shukkoor murder case is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: General Current Affairs
-
----
-## Kerala High Court issues interim order permitting conduct of Mayilpeeli scholarship examination
-**Subject:** Polity
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Kerala High Court issues interim order permitting conduct of Mayilpeeli scholarship examination is related to which of the following?  
-A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
-Ans: Polity
-
----
-## Keralam’s air quality under scrutiny amid discrepancies in air quality data
-**Subject:** General Current Affairs
-**Why in News:** Key update from The Hindu  
-**Source:** The Hindu
-
-**MCQ:**  
-Q. Keralam’s air quality under scrutiny amid discrepancies in air quality data is related to which of the following?  
+Q. Break free of limiting beliefs to achieve new heights: PM Modi at IIT Kharagpur is related to which of the following?  
 A. ['Economy', 'Polity', 'Science & Tech', 'Defence']  
 Ans: General Current Affairs
 
